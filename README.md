@@ -1,4 +1,7 @@
 <a href="http://nies.soccer/"><img src="https://github.com/nepito/world_cup_semis/blob/develop/img/logo.jpeg" align="right" width="256" /></a>
 
-# Tools to work with data downloaded by footbal
+# xGoal 
+
+## Expected Goal
+This is a set of tools to calculate xGoal and xPoint of football teams
 
