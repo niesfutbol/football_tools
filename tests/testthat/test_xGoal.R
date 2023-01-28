@@ -1,7 +1,5 @@
 library("tidyverse")
 setwd("/workdir")
-source("R/xGoal.R")
-source("R/xTable.R")
 
 describe("The class Teams", {
   teams <- Teams$new()

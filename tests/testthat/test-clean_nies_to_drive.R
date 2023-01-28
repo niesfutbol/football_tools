@@ -1,5 +1,4 @@
 library(tidyverse)
-source("/workdir/R/clean_nies_to_drive.R")
 run_clean_nies_to_drive <- function() {
   input_file <- "/workdir/tests/data/nies_13-01-2022.csv"
   output_file <- "/workdir/tests/data/cleaned_nies.csv"

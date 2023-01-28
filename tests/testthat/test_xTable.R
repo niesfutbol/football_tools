@@ -1,7 +1,6 @@
 library(comprehenr)
 library(tidyverse)
 setwd("/workdir")
-source("R/xTable.R")
 
 describe("The function calculate_points", {
   it("return one point with draw", {

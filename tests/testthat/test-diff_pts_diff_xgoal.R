@@ -1,5 +1,3 @@
-source("/workdir/R/diff_pts_diff_xgoal.R")
-
 run_diff_pts_diff_xgoal <- function() {
   league_season <- "135_2022"
   directory <- "/workdir/tests/data"
