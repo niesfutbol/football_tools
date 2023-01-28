@@ -32,7 +32,7 @@ clean_tests:
 	rm --force tests/testthat/logo.png
 
 coverage:
-	Rscript coverage.R
+	Rscript tests/testthat/coverage.R
 
 format:
 	R -e "library(styler)" \
@@ -45,7 +45,7 @@ linter:
 	$(lint) | grep -e "\^" && exit 1 || exit 0
 
 tests:
-	R -e "testthat::test_dir('tests/testthat/', report = 'summary', stop_on_failure = TRUE)"
+	Rscript -e "devtools::test(stop_on_failure = TRUE)"
 
 setup:
 	R -e "devtools::document()" && \
