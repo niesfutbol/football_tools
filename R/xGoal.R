@@ -1,7 +1,6 @@
 library(comprehenr)
 library(ggplot2)
 library(ggpubr)
-source("R/xTable.R")
 
 Teams <- R6::R6Class("Teams",
   public = list(
