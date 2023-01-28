@@ -15,7 +15,7 @@ describe("Run diff_pts_diff_xgoal", {
     run_diff_pts_diff_xgoal()
     expected_hash <- "d3135232327f5c696865e9479a382df3"
     obtained_hash <- as.vector(tools::md5sum(output_file))
-    #expect_equal(obtained_hash, expected_hash)
+    # expect_equal(obtained_hash, expected_hash)
   })
 })
 

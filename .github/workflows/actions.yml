@@ -3,20 +3,20 @@ on:
   pull_request:
     branches:
       - develop
-      - master
+      - main
   push:
     branches:
       - develop
-      - master
+      - main
 jobs:
   actions:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - name: Copia repositorio
       uses: actions/checkout@v2
     - name: Construye imagen
-      run: docker build --tag trs .
+      run: docker build --tag nepolin/football_tools .
     - name: Verifica el formato
-      run: docker run trs make check
+      run: docker run nepolin/football_tools make check
     - name: Corre pruebas y evalua cobertura
-      run: docker run trs make tests
+      run: docker run nepolin/football_tools make tests
