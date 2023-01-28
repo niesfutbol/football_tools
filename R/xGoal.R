@@ -41,7 +41,7 @@ Teams <- R6::R6Class("Teams",
 Calculator_Density <- R6::R6Class("Calculator_Density",
   public = list(
     probability_goal = function(xGol) {
-      density <- to_vec(for (gol in seq(0, 10)) sum(xGol == gol) / 2000)
+      density <- comprehenr::to_vec(for (gol in seq(0, 10)) sum(xGol == gol) / 2000)
       density <- private$clean_density(density)
       return(density)
     }
@@ -61,7 +61,7 @@ Heat_Map <- R6::R6Class("Heat_Map",
     home_team = NULL,
     away_team = NULL,
     matrix_heat_map = function(prob_home, prob_away) {
-      all_elemts <- to_vec(for (row in prob_home) for (column in prob_away) row * column)
+      all_elemts <- comprehenr::to_vec(for (row in prob_home) for (column in prob_away) row * column)
       heat_map <- matrix(all_elemts, nrow = 6)
       return(heat_map)
     },

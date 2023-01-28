@@ -44,7 +44,7 @@ describe("The function calculate_diff_goals", {
   })
   assert_mean_difference_goals <- function(home_xgoal, away_xgoal) {
     expected_mean_difference <- home_xgoal - away_xgoal
-    obtained_diff_goal <- to_vec(for (i in 1:2000) mean(calculate_diff_goals(home_xgoal, away_xgoal)))
+    obtained_diff_goal <- comprehenr::to_vec(for (i in 1:2000) mean(calculate_diff_goals(home_xgoal, away_xgoal)))
     obtained_mean_difference <- mean(obtained_diff_goal)
     expect_equal(expected_mean_difference, obtained_mean_difference, tolerance = 1e-3)
   }
@@ -79,7 +79,7 @@ describe("The function calculate_xpoints", {
   it("The local win", {
     limit_sup <- 3
     limit_inf <- 2
-    simulations_points <- to_vec(for (i in 1:2000) calculate_xpoints(2, 1))
+    simulations_points <- comprehenr::to_vec(for (i in 1:2000) calculate_xpoints(2, 1))
     obtained_points <- mean(simulations_points)
     expect_true(limit_inf < obtained_points)
     expect_true(limit_sup > obtained_points)
@@ -87,7 +87,7 @@ describe("The function calculate_xpoints", {
   it("Draw", {
     limit_sup <- 2
     limit_inf <- 1
-    simulations_points <- to_vec(for (i in 1:2000) calculate_xpoints(3, 3))
+    simulations_points <- comprehenr::to_vec(for (i in 1:2000) calculate_xpoints(3, 3))
     obtained_points <- mean(simulations_points)
     expect_true(limit_inf < obtained_points)
     expect_true(limit_sup > obtained_points)
