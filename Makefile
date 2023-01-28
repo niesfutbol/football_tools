@@ -42,6 +42,6 @@ tests:
 setup:
 	R -e "devtools::document()" && \
 	R CMD build . && \
-	R CMD check xGoal_21.08.27.tar.gz && \
-	R CMD INSTALL xGoal_21.08.27.tar.gz
+	R CMD check xGoal_0.1.0.tar.gz && \
+	R CMD INSTALL xGoal_0.1.0.tar.gz
 
