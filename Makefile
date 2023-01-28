@@ -18,10 +18,18 @@ check:
 	  -e "any(resumen[[2]])" \
 	  | grep FALSE
 
-clean:
+clean: clean_tests
 	rm --force NAMESPACE
 	rm --force --recursive xGoal.Rcheck
 	rm --force *.tar.gz
+
+clean_tests:
+	rm --force tests/data/cleaned_nies.csv
+	rm --force tests/data/Inter_135_2022.jpg
+	rm --force tests/data/predictions_78_2022_16.csv
+	rm --force tests/data/strength_league_39_2022.csv
+	rm --force tests/testthat/borrame_505.csv
+	rm --force tests/testthat/logo.png
 
 coverage:
 	Rscript coverage.R
