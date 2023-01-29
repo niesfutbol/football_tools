@@ -15,11 +15,11 @@ jobs:
     - name: Copia repositorio
       uses: actions/checkout@v2
     - name: Construye imagen
-      run: docker build --tag nepolin/football_tools:${GITHUB_SHA:0:4} .
+      run: docker build --tag nepolin/football_tools:latest --tag nepolin/football_tools:${GITHUB_SHA:0:4} .
     - name: Verifica el formato
-      run: docker run nepolin/football_tools make check
+      run: docker run nepolin/football_tools:latest make check
     - name: Corre pruebas y evalua cobertura
-      run: docker run nepolin/football_tools make tests
+      run: docker run nepolin/football_tools:latest make tests
     - name: Docker log-in
       env:
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
