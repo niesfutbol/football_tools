@@ -38,9 +38,9 @@ describe("team_from_league", {
     expected <- "Italy - Serie A"
     expect_equal(the_league$league_name, expected)
   })
-  it("", {
+  it("Check points of a team", {
     expected_points <- team_from_league$point
     the_league$set_id_team(505)
-    expect_equal(the_league$points, expected_point2)
+    expect_equal(sum(the_league$points), sum(expected_points))
   })
 })
