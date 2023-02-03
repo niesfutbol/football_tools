@@ -25,6 +25,7 @@ describe("team_from_league", {
   league <- read_csv("/workdir/tests/data/league_135_2022.csv", show_col_types = FALSE)
   it("Read name, season and league", {
     league <- League$new(league, season, names)
-    expect_true(all(c("date", "league") %in% names(league$league)))
+    all_columns_are_in_league <- all(c("date", "league") %in% names(league$league))
+    expect_true(all_columns_are_in_league)
   })
 })
