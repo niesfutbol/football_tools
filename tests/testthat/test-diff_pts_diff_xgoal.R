@@ -41,19 +41,10 @@ describe("team_from_league", {
   it("Check points of a team", {
     expected_points <- team_from_league$point
     the_league$set_id_team(505)
-    expect_equal(sum(the_league$points), sum(expected_points))
-  })
-  it("Check xpoints of a team", {
+    expect_equal(the_league$team$points, expected_points)
     expected_xpoints <- team_from_league$xpoint
-    the_league$set_id_team(505)
-    expect_equal(sum(the_league$xpoints), sum(expected_xpoints))
-  })
-  it("Check matches date of a team", {
+    expect_equal(the_league$team$xpoints, expected_xpoints)
     expected_date <- team_from_league$date
-    the_league$set_id_team(505)
-    all_date_are_in_the_other <- all(team_from_league$date %in% the_league$date)
-    expect_true(all_date_are_in_the_other)
-    all_date_are_in_the_other <- all(the_league$date %in% team_from_league$date)
-    expect_true(all_date_are_in_the_other)
+    expect_equal(the_league$team$date, expected_date)
   })
 })
