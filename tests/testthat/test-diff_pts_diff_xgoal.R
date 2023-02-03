@@ -28,4 +28,9 @@ describe("team_from_league", {
     all_columns_are_in_league <- all(c("date", "league") %in% names(league$league))
     expect_true(all_columns_are_in_league)
   })
+  it("Check the name is selected", {
+    expected <- "Inter"
+    league$set_id_team(505)
+    expect_equal(league$name_team, expected)
+  })
 })
