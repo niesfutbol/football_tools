@@ -43,4 +43,9 @@ describe("team_from_league", {
     the_league$set_id_team(505)
     expect_equal(sum(the_league$points), sum(expected_points))
   })
+  it("Check xpoints of a team", {
+    expected_xpoints <- team_from_league$xpoint
+    the_league$set_id_team(505)
+    expect_equal(sum(the_league$xpoints), sum(expected_xpoints))
+  })
 })
