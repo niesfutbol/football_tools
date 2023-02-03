@@ -20,3 +20,14 @@ read_file_from_options_cli <- function(opciones, file) {
 get_league_name_from_season <- function(season) {
   return(season$league[1])
 }
+
+League <- R6::R6Class("League", list(
+  names = NULL,
+  season = NULL,
+  league = NULL,
+  initialize = function(league, season, names) {
+    self$names <- names
+    self$league <- league
+    self$season <- season
+  }
+))
