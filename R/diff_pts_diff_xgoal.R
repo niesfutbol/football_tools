@@ -27,7 +27,8 @@ League <- R6::R6Class("League", list(
   league = NULL,
   initialize = function(league, season, names) {
     self$names <- names
-    self$league <- league
+    self$league <- league %>%
+      left_join(season, by = c("match_id" = "id_match"))
     self$season <- season
   }
 ))
