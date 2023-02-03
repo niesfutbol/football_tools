@@ -37,10 +37,10 @@ League <- R6::R6Class("League",
     set_id_team = function(id_team) {
       private$id_team <- id_team
       private$set_name()
-      points <- extract_point_from_league(self$league, id_team)
-      xpoints <- extract_xpoint_from_league(self$league, id_team)
+      point <- extract_point_from_league(self$league, id_team)
+      xpoint <- extract_xpoint_from_league(self$league, id_team)
       date <- extract_date_from_league(self$league, id_team)
-      self$team <- tibble(date, xpoints, points) %>% arrange(date)
+      self$team <- tibble(date, xpoint, point) %>% arrange(date)
     }
   ),
   private = list(
