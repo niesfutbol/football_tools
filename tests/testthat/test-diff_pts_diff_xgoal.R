@@ -24,6 +24,7 @@ describe("team_from_league", {
     select(c(id_match, date, league))
   league <- read_csv("/workdir/tests/data/league_135_2022.csv", show_col_types = FALSE)
   the_league <- League$new(league, season, names)
+  team_from_league <- read_csv("/workdir/tests/data/team_from_league_505.csv", show_col_types = FALSE)
   it("Read name, season and league", {
     all_columns_are_in_league <- all(c("date", "league") %in% names(the_league$league))
     expect_true(all_columns_are_in_league)
@@ -36,5 +37,10 @@ describe("team_from_league", {
   it("Check the league name", {
     expected <- "Italy - Serie A"
     expect_equal(the_league$league_name, expected)
+  })
+  it("", {
+    expected_points <- team_from_league$point
+    the_league$set_id_team(505)
+    expect_equal(the_league$points, expected_point2)
   })
 })
