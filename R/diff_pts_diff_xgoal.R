@@ -27,11 +27,13 @@ League <- R6::R6Class("League",
     season = NULL,
     league = NULL,
     name_team = NULL,
+    league_name = NULL,
     initialize = function(league, season, names) {
       self$names <- names
       self$league <- league %>%
         left_join(season, by = c("match_id" = "id_match"))
       self$season <- season
+      self$league_name <- get_league_name_from_season(season)
     },
     set_id_team = function(id_team) {
       private$id_team <- id_team
