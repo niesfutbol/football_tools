@@ -28,6 +28,7 @@ League <- R6::R6Class("League",
     league = NULL,
     name_team = NULL,
     league_name = NULL,
+    points = NULL,
     initialize = function(league, season, names) {
       self$names <- names
       self$league <- league %>%
@@ -38,6 +39,7 @@ League <- R6::R6Class("League",
     set_id_team = function(id_team) {
       private$id_team <- id_team
       private$set_name()
+      self$points <- extract_point_from_league(self$league, id_team)
     }
   ),
   private = list(
