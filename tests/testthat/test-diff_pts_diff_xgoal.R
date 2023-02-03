@@ -32,7 +32,7 @@ describe("team_from_league", {
   it("Check the name of selected team", {
     expected <- "Inter"
     the_league$set_id_team(505)
-    expect_equal(the_league$name_team, expected)
+    expect_equal(the_league$team_name, expected)
   })
   it("Check the league name", {
     expected <- "Italy - Serie A"
