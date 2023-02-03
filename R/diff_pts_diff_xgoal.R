@@ -26,6 +26,7 @@ League <- R6::R6Class("League",
     names = NULL,
     season = NULL,
     league = NULL,
+    name_team = NULL,
     initialize = function(league, season, names) {
       self$names <- names
       self$league <- league %>%
@@ -34,9 +35,15 @@ League <- R6::R6Class("League",
     },
     set_id_team = function(id_team) {
       private$id_team <- id_team
+      private$set_name()
     }
   ),
   private = list(
-    id_team = NULL
+    id_team = NULL,
+    set_name = function() {
+      self$name_team <- self$names %>%
+        filter(ids == private$id_team) %>%
+        .$names
+    }
   )
 )
