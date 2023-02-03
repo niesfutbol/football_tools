@@ -48,4 +48,12 @@ describe("team_from_league", {
     the_league$set_id_team(505)
     expect_equal(sum(the_league$xpoints), sum(expected_xpoints))
   })
+  it("Check matches date of a team", {
+    expected_date <- team_from_league$date
+    the_league$set_id_team(505)
+    all_date_are_in_the_other <- all(team_from_league$date %in% the_league$xpoints)
+    expect_true(all_date_are_in_the_other)
+    all_date_are_in_the_other <- all(the_league$xpoints %in% team_from_league$date)
+    expect_true(all_date_are_in_the_other)
+  })
 })
