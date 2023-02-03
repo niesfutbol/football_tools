@@ -23,14 +23,14 @@ describe("team_from_league", {
   season <- read_csv("/workdir/tests/data/season_135_2022.csv", show_col_types = FALSE) %>%
     select(c(id_match, date, league))
   league <- read_csv("/workdir/tests/data/league_135_2022.csv", show_col_types = FALSE)
+  the_league <- League$new(league, season, names)
   it("Read name, season and league", {
-    league <- League$new(league, season, names)
-    all_columns_are_in_league <- all(c("date", "league") %in% names(league$league))
+    all_columns_are_in_league <- all(c("date", "league") %in% names(the_league$league))
     expect_true(all_columns_are_in_league)
   })
   it("Check the name is selected", {
     expected <- "Inter"
-    league$set_id_team(505)
-    expect_equal(league$name_team, expected)
+    the_league$set_id_team(505)
+    expect_equal(the_league$name_team, expected)
   })
 })
