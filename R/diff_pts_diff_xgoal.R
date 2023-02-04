@@ -41,6 +41,7 @@ League <- R6::R6Class("League",
       xpoint <- extract_xpoint_from_league(self$league, id_team)
       date <- extract_date_from_league(self$league, id_team)
       self$team <- tibble(date, xpoint, point) %>% arrange(date)
+      self$team$point_agg <- RcppRoll::roll_mean(self$team$point, n = 4, align = "right", fill = NA)
     }
   ),
   private = list(
