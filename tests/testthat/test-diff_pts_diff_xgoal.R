@@ -45,5 +45,8 @@ describe("team_from_league", {
     expect_equal(the_league$team$xpoint, expected_xpoints)
     expected_date <- team_from_league$date
     expect_equal(the_league$team$date, expected_date)
+    the_league$set_id_team(492)
+    expected <- "Napoli"
+    expect_equal(the_league$team_name, expected)
   })
 })
