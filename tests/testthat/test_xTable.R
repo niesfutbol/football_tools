@@ -344,3 +344,14 @@ describe("extract_{xpoint/point}_from_league", {
     expect_equal(obtained, expected)
   })
 })
+
+describe("get_xGoal_attacking_with_id_match", {
+  it("First example", {
+    expected_attack <- tibble(
+      match_id = c(1, 2, 3, 4, 5, 6, 7, 8),
+      xGoal_attacking = c(0.1, 0.3, 0.3, 0.3, 0.1, 0.2, 0.2, 0.2),
+    )
+    obtained <- get_xGoal_attacking_and_id_match(league_attack_defense_streak, 1)
+    expect_equal(obtained, expected_attack)
+  })
+})
