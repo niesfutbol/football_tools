@@ -48,5 +48,8 @@ describe("team_from_league", {
     the_league$set_id_team(492)
     expected <- "Napoli"
     expect_equal(the_league$team_name, expected)
+    team_from_league <- read_csv("/workdir/tests/data/team_from_league_492.csv", show_col_types = FALSE)
+    expected_points <- team_from_league$point
+    expect_equal(the_league$team$point, expected_points)
   })
 })
