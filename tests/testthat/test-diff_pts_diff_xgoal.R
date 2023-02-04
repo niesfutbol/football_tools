@@ -25,13 +25,13 @@ describe("team_from_league", {
   league <- read_csv("/workdir/tests/data/league_135_2022.csv", show_col_types = FALSE)
   the_league <- League$new(league, season, names)
   team_from_league <- read_csv("/workdir/tests/data/team_from_league_505.csv", show_col_types = FALSE)
+  the_league$set_id_team(505)
   it("Read name, season and league", {
     all_columns_are_in_league <- all(c("date", "league") %in% names(the_league$league))
     expect_true(all_columns_are_in_league)
   })
   it("Check the name of selected team", {
     expected <- "Inter"
-    the_league$set_id_team(505)
     expect_equal(the_league$team_name, expected)
   })
   it("Check the league name", {
@@ -40,7 +40,6 @@ describe("team_from_league", {
   })
   it("Check points of a team", {
     expected_points <- team_from_league$point
-    the_league$set_id_team(505)
     expect_equal(the_league$team$point, expected_points)
     expected_xpoints <- team_from_league$xpoint
     expect_equal(the_league$team$xpoint, expected_xpoints)
