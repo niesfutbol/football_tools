@@ -266,6 +266,7 @@ describe("get_strength_defense()", {
 })
 
 league_attack_defense_streak <- tibble(
+  match_id = c(1, 2, 3, 4, 5, 6, 7, 8),
   home_id = c(1, 1, 1, 1, 5, 2, 3, 4),
   away_id = c(5, 2, 3, 4, 1, 1, 1, 1),
   home_xGol = c(0.1, 0.3, 0.3, 0.3, 0.5, 0.2, 0.3, 0.4),
