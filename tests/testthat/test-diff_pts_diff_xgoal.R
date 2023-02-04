@@ -56,5 +56,7 @@ describe("team_from_league", {
     the_league$set_id_team(505)
     expected <- "Inter"
     expect_equal(the_league$team_name, expected)
+    expected_points <- team_from_league$point_agg
+    expect_equal(the_league$team$point_agg, expected_points)
   })
 })
