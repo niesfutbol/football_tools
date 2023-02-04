@@ -357,7 +357,7 @@ describe("get_xGoal_attacking_with_id_match", {
   it("get_xGoal_defending_with_id_match", {
     expected_defense <- tibble(
       match_id = c(1, 2, 3, 4, 5, 6, 7, 8),
-      xGoal_defending = c(0.1, 0.3, 0.3, 0.3, 0.1, 0.2, 0.2, 0.2),
+      xGoal_defending = c(0.5, 0.2, 0.3, 0.4, 0.5, 0.2, 0.3, 0.4),
     )
     obtained <- get_xGoal_defending_and_id_match(league_attack_defense_streak, 1)
     expect_equal(obtained, expected_defense)
