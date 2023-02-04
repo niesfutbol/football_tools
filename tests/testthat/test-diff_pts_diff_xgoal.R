@@ -52,4 +52,9 @@ describe("team_from_league", {
     expected_points <- team_from_league$point
     expect_equal(the_league$team$point, expected_points)
   })
+  it("Check the aggregate variable", {
+    the_league$set_id_team(505)
+    expected <- "Inter"
+    expect_equal(the_league$team_name, expected)
+  })
 })
