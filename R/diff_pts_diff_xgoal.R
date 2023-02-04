@@ -41,7 +41,7 @@ League <- R6::R6Class("League",
       xpoint <- extract_xpoint_from_league(self$league, id_team)
       date <- extract_date_from_league(self$league, id_team)
       self$team <- tibble(date, xpoint, point) %>% arrange(date)
-      self$team$point_agg <- RcppRoll::roll_mean(self$team$point, n = 4, align = "right", fill = NA)
+      self$team$point_agg <- private$aggregate_point()
     }
   ),
   private = list(
@@ -50,6 +50,10 @@ League <- R6::R6Class("League",
       self$team_name <- self$names %>%
         filter(ids == private$id_team) %>%
         .$names
+    },
+    aggregate_point = function() {
+      point_agg <- RcppRoll::roll_mean(self$team$point, n = 4, align = "right", fill = NA)
+      return(point_agg)
     }
   )
 )
