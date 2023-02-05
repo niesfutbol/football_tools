@@ -40,7 +40,10 @@ League <- R6::R6Class("League",
       point <- extract_point_from_league(self$league, id_team)
       xpoint <- extract_xpoint_from_league(self$league, id_team)
       date <- extract_date_from_league(self$league, id_team)
-      self$team <- tibble(date, xpoint, point) %>% arrange(date)
+      xGoal_attacking <- extract_xgoal_attack_from_league(self$league, id_team)
+      xGoal_defending <- extract_xgoal_defense_from_league(self$league, id_team)
+      self$team <- tibble(date, xpoint, point, xGoal_attacking, xGoal_defending) %>%
+        arrange(date)
       self$team$point_agg <- private$aggregate_point()
     }
   ),
