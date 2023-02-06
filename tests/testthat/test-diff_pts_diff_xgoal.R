@@ -63,5 +63,6 @@ describe("team_from_league", {
     expected_defense <- 18.5
     expect_true(sum(the_league$team$xGoal_defending) < expected_attack)
     expect_equal(sum(the_league$team$xGoal_defending), expected_defense, tolerance = 1e-3)
+    expect_equal(sum(the_league$team$diff_xGoal), 5.58, tolerance = 1e-3)
   })
 })
