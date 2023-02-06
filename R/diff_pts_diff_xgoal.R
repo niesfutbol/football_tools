@@ -42,7 +42,8 @@ League <- R6::R6Class("League",
       date <- extract_date_from_league(self$league, id_team)
       xGoal_attacking <- extract_xgoal_attack_from_league(self$league, id_team)
       xGoal_defending <- extract_xgoal_defense_from_league(self$league, id_team)
-      self$team <- tibble(date, xpoint, point, xGoal_attacking, xGoal_defending) %>%
+      match_id <- extract_match_id_from_league(self$league, id_team)
+      self$team <- tibble(match_id, date, xpoint, point, xGoal_attacking, xGoal_defending) %>%
         arrange(date)
       self$team$point_agg <- private$aggregate_point()
       private$calculate_diff_xgoal()
@@ -61,7 +62,7 @@ League <- R6::R6Class("League",
     },
     calculate_diff_xgoal = function() {
       self$team <- self$team %>%
-      mutate(diff_xGoal = xGoal_attacking - xGoal_defending)
+        mutate(diff_xGoal = xGoal_attacking - xGoal_defending)
     }
   )
 )
