@@ -58,6 +58,8 @@ describe("team_from_league", {
     expect_equal(the_league$team_name, expected)
     expected_points <- team_from_league$point_agg
     expect_equal(the_league$team$point_agg, expected_points)
+    expected_xpoints <- team_from_league$xpoint_agg
+    expect_equal(the_league$team$xpoint_agg, expected_xpoints)
     expected_attack <- 24.07
     expect_equal(sum(the_league$team$xGoal_attacking), expected_attack, tolerance = 1e-3)
     expected_defense <- 18.5
