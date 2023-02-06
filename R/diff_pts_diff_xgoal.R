@@ -46,6 +46,7 @@ League <- R6::R6Class("League",
       self$team <- tibble(match_id, date, xpoint, point, xGoal_attacking, xGoal_defending) %>%
         arrange(date)
       self$team$point_agg <- private$aggregate_point()
+      private$aggregate_xpoint()
       private$calculate_diff_xgoal()
     }
   ),
@@ -59,6 +60,9 @@ League <- R6::R6Class("League",
     aggregate_point = function() {
       point_agg <- RcppRoll::roll_mean(self$team$point, n = 4, align = "right", fill = NA)
       return(point_agg)
+    },
+    aggregate_xpoint = function() {
+      self$team$xpoint_agg <- RcppRoll::roll_mean(self$team$xpoint, n = 4, align = "right", fill = NA)
     },
     calculate_diff_xgoal = function() {
       self$team <- self$team %>%
