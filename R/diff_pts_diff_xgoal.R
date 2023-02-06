@@ -48,6 +48,7 @@ League <- R6::R6Class("League",
       self$team$point_agg <- private$aggregate_point()
       private$aggregate_xpoint()
       private$calculate_diff_xgoal()
+      private$calculate_diff_points()
     }
   ),
   private = list(
@@ -67,6 +68,10 @@ League <- R6::R6Class("League",
     calculate_diff_xgoal = function() {
       self$team <- self$team %>%
         mutate(diff_xGoal = xGoal_attacking - xGoal_defending)
+    },
+    calculate_diff_points = function() {
+      self$team <- self$team %>%
+        mutate(diff_points = point_agg - xpoint_agg)
     }
   )
 )
