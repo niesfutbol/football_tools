@@ -21,16 +21,16 @@ get_info_from_match <- function(all_matches, match_id, cleaned_matches) {
   return(diff_xgoal_point)
 }
 
-.get_xGoal_attacking_agg <- function(all_matches, Match_id, home_id) {
+.get_xGoal_attacking_agg <- function(all_matches, Match_id, team) {
   home_xgoal_agg <- all_matches %>%
-    filter(match_id == Match_id & team_id == home_id) %>%
+    filter(match_id == Match_id & team_id == team) %>%
     .$xGoal_attacking_agg
   return(home_xgoal_agg)
 }
 
-.get_point_agg <- function(all_matches, Match_id, home_id) {
+.get_point_agg <- function(all_matches, Match_id, team) {
   point_agg <- all_matches %>%
-    filter(match_id == Match_id & team_id == home_id) %>%
+    filter(match_id == Match_id & team_id == team) %>%
     .$point_agg
   return(point_agg)
 }
