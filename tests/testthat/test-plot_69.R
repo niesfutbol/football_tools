@@ -9,10 +9,23 @@ describe("get_info_from_match", {
       match_id = c(867986),
       home_id = c(35),
       away_id = c(39),
-      diff_xgoal = c(1.41704 - 0.46233),
-      diff_point = c(0.75 - 0.25)
+      diff_xgoal = c(0.46233 - 1.41704),
+      diff_point = c(0.25 - 0.75)
     )
     obtained <- get_info_from_match(all_matches, match_id, matches)
     expect_equal(obtained, expected)
+  })
+})
+
+describe("auxiliar functions", {
+  it(".get_xGoal_attacking_agg()", {
+    obtaines <- .get_xGoal_attacking_agg(all_matches, 867999, 49)
+    expected <- 0.6563300000000001
+    expect_equal(obtaines, expected)
+  })
+  it(".get_point_agg()", {
+    obtaines <- .get_point_agg(all_matches, 867999, 49)
+    expected <- 1.5
+    expect_equal(obtaines, expected)
   })
 })
