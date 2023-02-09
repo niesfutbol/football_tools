@@ -73,6 +73,6 @@ describe("team_from_league", {
     xGoal_attacking_agg <- the_league$team$xGoal_attacking_agg
     are_different_to_na <- all(is.na(xGoal_attacking_agg[5:10]))
     expect_false(are_different_to_na)
-    expect_equal()
+    expect_equal(xGoal_attacking_agg[5:7], c(5.88, 5.47, 5.14), tolerance = 1e-3)
   })
 })
