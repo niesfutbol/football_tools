@@ -70,5 +70,8 @@ describe("team_from_league", {
     expect_equal(sum(the_league$team$diff_xGoal), 5.58, tolerance = 1e-3)
     two_examples_in_played_match <- all(c(881782, 881792) %in% the_league$team$match_id)
     expect_true(two_examples_in_played_match)
+    xGoal_attacking_agg <- the_league$team$xGoal_attacking_agg
+    first_tree_are_na <- all(is.na(xGoal_attacking_agg[5:10]))
+    expect_false(first_tree_are_na)
   })
 })
