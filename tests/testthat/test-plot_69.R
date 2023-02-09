@@ -8,9 +8,11 @@ describe("get_info_from_match", {
     expected <- tibble(
       match_id = c(867986),
       home_id = c(35),
-      away_id = c(39)
+      away_id = c(39),
+      diff_xgoal = c(1.41704 - 0.46233),
+      diff_point = c(0.75 - 0.25)
     )
-    obtained <- get_info_from_match(all_matches, match_id)
+    obtained <- get_info_from_match(all_matches, match_id, matches)
     expect_equal(obtained, expected)
   })
 })
