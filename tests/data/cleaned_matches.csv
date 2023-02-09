@@ -1,0 +1,1561 @@
+home_id,away_id,round,id_match,date,league
+35,39,5,867986,2022-08-31,England - Premier League
+42,66,5,867987,2022-08-31,England - Premier League
+36,51,5,867988,2022-08-30,England - Premier League
+63,45,5,867989,2022-08-30,England - Premier League
+46,33,5,867990,2022-09-01,England - Premier League
+48,47,5,867991,2022-08-31,England - Premier League
+52,55,5,867992,2022-08-30,England - Premier League
+41,49,5,867993,2022-08-30,England - Premier League
+40,34,5,867994,2022-08-31,England - Premier League
+50,65,5,867995,2022-08-31,England - Premier League
+66,50,6,867996,2022-09-03,England - Premier League
+55,63,6,867997,2022-09-03,England - Premier League
+51,46,6,867998,2022-09-04,England - Premier League
+49,48,6,867999,2022-09-03,England - Premier League
+45,40,6,868000,2022-09-03,England - Premier League
+33,42,6,868001,2022-09-04,England - Premier League
+34,52,6,868002,2022-09-03,England - Premier League
+65,35,6,868003,2022-09-03,England - Premier League
+47,36,6,868004,2022-09-03,England - Premier League
+39,41,6,868005,2022-09-03,England - Premier League
+35,51,7,868006,2022-09-10,England - Premier League
+42,45,7,868007,2022-09-11,England - Premier League
+52,33,7,868008,2023-01-18,England - Premier League
+36,49,7,868009,2023-01-12,England - Premier League
+63,65,7,868010,2022-09-12,England - Premier League
+46,66,7,868011,2022-09-10,England - Premier League
+40,39,7,868012,2022-09-10,England - Premier League
+50,47,7,868013,2023-01-19,England - Premier League
+41,55,7,868014,2022-09-10,England - Premier League
+48,34,7,868015,2022-09-11,England - Premier League
+66,41,8,868016,2022-09-16,England - Premier League
+55,42,8,868017,2022-09-18,England - Premier League
+51,52,8,868018,2022-09-17,England - Premier League
+49,40,8,868019,2022-09-18,England - Premier League
+45,48,8,868020,2022-09-18,England - Premier League
+33,63,8,868021,2022-09-18,England - Premier League
+34,35,8,868022,2022-09-17,England - Premier League
+65,36,8,868023,2022-09-16,England - Premier League
+47,46,8,868024,2022-09-17,England - Premier League
+39,50,8,868025,2022-09-17,England - Premier League
+35,55,9,868026,2022-10-01,England - Premier League
+42,47,9,868027,2022-10-01,England - Premier League
+52,49,9,868028,2022-10-01,England - Premier League
+36,34,9,868029,2022-10-01,England - Premier League
+63,66,9,868030,2022-10-02,England - Premier League
+46,65,9,868031,2022-10-03,England - Premier League
+40,51,9,868032,2022-10-01,England - Premier League
+50,33,9,868033,2022-10-02,England - Premier League
+41,45,9,868034,2022-10-01,England - Premier League
+48,39,9,868035,2022-10-01,England - Premier League
+35,46,10,868036,2022-10-08,England - Premier League
+42,40,10,868037,2022-10-09,England - Premier League
+51,47,10,868038,2022-10-08,England - Premier League
+49,39,10,868039,2022-10-08,England - Premier League
+52,63,10,868040,2022-10-09,England - Premier League
+45,33,10,868041,2022-10-09,England - Premier League
+50,41,10,868042,2022-10-08,England - Premier League
+34,55,10,868043,2022-10-08,England - Premier League
+65,66,10,868044,2022-10-10,England - Premier League
+48,36,10,868045,2022-10-09,England - Premier League
+66,49,11,868046,2022-10-16,England - Premier League
+55,51,11,868047,2022-10-14,England - Premier League
+36,35,11,868048,2022-10-15,England - Premier League
+63,42,11,868049,2022-10-16,England - Premier League
+46,52,11,868050,2022-10-15,England - Premier League
+40,50,11,868051,2022-10-16,England - Premier League
+33,34,11,868052,2022-10-16,England - Premier League
+41,48,11,868053,2022-10-16,England - Premier League
+47,45,11,868054,2022-10-15,England - Premier League
+39,65,11,868055,2022-10-15,England - Premier League
+35,41,12,868056,2022-10-19,England - Premier League
+42,50,12,868057,2023-02-15,England - Premier League
+55,49,12,868058,2022-10-19,England - Premier League
+51,65,12,868059,2022-10-18,England - Premier League
+36,66,12,868060,2022-10-20,England - Premier League
+46,63,12,868061,2022-10-20,England - Premier League
+52,39,12,868062,2022-10-18,England - Premier League
+34,45,12,868063,2022-10-19,England - Premier League
+40,48,12,868064,2022-10-19,England - Premier League
+33,47,12,868065,2022-10-19,England - Premier League
+66,55,13,868066,2022-10-23,England - Premier League
+49,33,13,868067,2022-10-22,England - Premier League
+45,52,13,868068,2022-10-22,England - Premier League
+63,36,13,868069,2022-10-23,England - Premier League
+50,51,13,868070,2022-10-22,England - Premier League
+65,40,13,868071,2022-10-22,England - Premier League
+41,42,13,868072,2022-10-23,England - Premier League
+47,34,13,868073,2022-10-23,England - Premier League
+48,35,13,868074,2022-10-24,England - Premier League
+39,46,13,868075,2022-10-23,England - Premier League
+35,47,14,868076,2022-10-29,England - Premier League
+42,65,14,868077,2022-10-30,England - Premier League
+55,39,14,868078,2022-10-29,England - Premier League
+51,49,14,868079,2022-10-29,England - Premier League
+52,41,14,868080,2022-10-29,England - Premier League
+36,45,14,868081,2022-10-29,England - Premier League
+46,50,14,868082,2022-10-29,England - Premier League
+40,63,14,868083,2022-10-29,England - Premier League
+33,48,14,868084,2022-10-30,England - Premier League
+34,66,14,868085,2022-10-29,England - Premier League
+66,33,15,868086,2022-11-06,England - Premier League
+49,42,15,868087,2022-11-06,England - Premier League
+45,46,15,868088,2022-11-05,England - Premier League
+63,35,15,868089,2022-11-05,England - Premier League
+50,36,15,868090,2022-11-05,England - Premier League
+65,55,15,868091,2022-11-05,England - Premier League
+41,34,15,868092,2022-11-06,England - Premier League
+47,40,15,868093,2022-11-06,England - Premier League
+48,52,15,868094,2022-11-06,England - Premier League
+39,51,15,868095,2022-11-05,England - Premier League
+35,45,16,868096,2022-11-12,England - Premier League
+51,66,16,868097,2022-11-13,England - Premier League
+36,33,16,868098,2022-11-13,England - Premier League
+40,41,16,868099,2022-11-12,England - Premier League
+50,55,16,868100,2022-11-12,England - Premier League
+34,49,16,868101,2022-11-12,England - Premier League
+65,52,16,868102,2022-11-12,England - Premier League
+47,63,16,868103,2022-11-12,England - Premier League
+48,46,16,868104,2022-11-12,England - Premier League
+39,42,16,868105,2022-11-12,England - Premier League
+42,48,17,868106,2022-12-26,England - Premier League
+66,40,17,868107,2022-12-26,England - Premier League
+55,47,17,868108,2022-12-26,England - Premier League
+49,35,17,868109,2022-12-27,England - Premier League
+52,36,17,868110,2022-12-26,England - Premier League
+45,39,17,868111,2022-12-26,England - Premier League
+63,50,17,868112,2022-12-28,England - Premier League
+46,34,17,868113,2022-12-26,England - Premier League
+33,65,17,868114,2022-12-27,England - Premier League
+41,51,17,868115,2022-12-26,England - Premier League
+35,52,18,868116,2022-12-31,England - Premier League
+51,42,18,868117,2022-12-31,England - Premier League
+36,41,18,868118,2022-12-31,England - Premier League
+40,46,18,868119,2022-12-30,England - Premier League
+50,45,18,868120,2022-12-31,England - Premier League
+34,63,18,868121,2022-12-31,England - Premier League
+65,49,18,868122,2023-01-01,England - Premier League
+47,66,18,868123,2023-01-01,England - Premier League
+48,55,18,868124,2022-12-30,England - Premier League
+39,33,18,868125,2022-12-31,England - Premier League
+42,34,19,868126,2023-01-03,England - Premier League
+66,39,19,868127,2023-01-04,England - Premier League
+55,40,19,868128,2023-01-02,England - Premier League
+49,50,19,868129,2023-01-05,England - Premier League
+52,47,19,868130,2023-01-04,England - Premier League
+45,51,19,868131,2023-01-03,England - Premier League
+63,48,19,868132,2023-01-04,England - Premier League
+46,36,19,868133,2023-01-03,England - Premier League
+33,35,19,868134,2023-01-03,England - Premier League
+41,65,19,868135,2023-01-04,England - Premier League
+66,63,20,868136,2023-01-13,England - Premier League
+55,35,20,868137,2023-01-14,England - Premier League
+51,40,20,868138,2023-01-14,England - Premier League
+49,52,20,868139,2023-01-15,England - Premier League
+45,41,20,868140,2023-01-14,England - Premier League
+33,50,20,868141,2023-01-14,England - Premier League
+34,36,20,868142,2023-01-15,England - Premier League
+65,46,20,868143,2023-01-14,England - Premier League
+47,42,20,868144,2023-01-15,England - Premier League
+39,48,20,868145,2023-01-14,England - Premier League
+35,65,21,868146,2023-01-21,England - Premier League
+42,33,21,868147,2023-01-22,England - Premier League
+52,34,21,868148,2023-01-21,England - Premier League
+36,47,21,868149,2023-01-23,England - Premier League
+63,55,21,868150,2023-01-22,England - Premier League
+46,51,21,868151,2023-01-21,England - Premier League
+40,49,21,868152,2023-01-21,England - Premier League
+50,39,21,868153,2023-01-22,England - Premier League
+41,66,21,868154,2023-01-21,England - Premier League
+48,45,21,868155,2023-01-21,England - Premier League
+66,46,22,868156,2023-02-04,England - Premier League
+55,41,22,868157,2023-02-04,England - Premier League
+51,35,22,868158,2023-02-04,England - Premier League
+49,36,22,868159,2023-02-03,England - Premier League
+45,42,22,868160,2023-02-04,England - Premier League
+33,52,22,868161,2023-02-04,England - Premier League
+34,48,22,868162,2023-02-04,England - Premier League
+65,63,22,868163,2023-02-05,England - Premier League
+47,50,22,868164,2023-02-05,England - Premier League
+39,40,22,868165,2023-02-04,England - Premier League
+35,34,23,868166,2023-02-11,England - Premier League
+42,55,23,868167,2023-02-11,England - Premier League
+52,51,23,868168,2023-02-11,England - Premier League
+36,65,23,868169,2023-02-11,England - Premier League
+63,33,23,868170,2023-02-12,England - Premier League
+46,47,23,868171,2023-02-11,England - Premier League
+40,45,23,868172,2023-02-13,England - Premier League
+50,66,23,868173,2023-02-12,England - Premier League
+41,39,23,868174,2023-02-11,England - Premier League
+48,49,23,868175,2023-02-11,England - Premier League
+66,42,24,868176,2023-02-18,England - Premier League
+55,52,24,868177,2023-02-18,England - Premier League
+51,36,24,868178,2023-02-18,England - Premier League
+49,41,24,868179,2023-02-18,England - Premier League
+45,63,24,868180,2023-02-18,England - Premier League
+33,46,24,868181,2023-02-19,England - Premier League
+34,40,24,868182,2023-02-18,England - Premier League
+65,50,24,868183,2023-02-18,England - Premier League
+47,48,24,868184,2023-02-19,England - Premier League
+39,35,24,868185,2023-02-18,England - Premier League
+35,50,25,868186,2023-02-25,England - Premier League
+52,40,25,868187,2023-02-25,England - Premier League
+45,66,25,868188,2023-02-25,England - Premier League
+36,39,25,868189,2023-02-24,England - Premier League
+63,41,25,868190,2023-02-25,England - Premier League
+46,42,25,868191,2023-02-25,England - Premier League
+33,55,25,868192,2023-02-26,England - Premier League
+34,51,25,868193,2023-02-25,England - Premier League
+47,49,25,868194,2023-02-26,England - Premier League
+48,65,25,868195,2023-02-25,England - Premier League
+42,35,26,868196,2023-03-04,England - Premier League
+66,52,26,868197,2023-03-04,England - Premier League
+55,36,26,868198,2023-03-04,England - Premier League
+51,48,26,868199,2023-03-04,England - Premier League
+49,63,26,868200,2023-03-04,England - Premier League
+40,33,26,868201,2023-03-04,England - Premier League
+50,34,26,868202,2023-03-04,England - Premier League
+65,45,26,868203,2023-03-04,England - Premier League
+41,46,26,868204,2023-03-04,England - Premier League
+39,47,26,868205,2023-03-04,England - Premier League
+35,40,27,868206,2023-03-11,England - Premier League
+52,50,27,868207,2023-03-11,England - Premier League
+45,55,27,868208,2023-03-11,England - Premier League
+36,42,27,868209,2023-03-11,England - Premier League
+63,51,27,868210,2023-03-11,England - Premier League
+46,49,27,868211,2023-03-11,England - Premier League
+33,41,27,868212,2023-03-11,England - Premier League
+34,39,27,868213,2023-03-11,England - Premier League
+47,65,27,868214,2023-03-11,England - Premier League
+48,66,27,868215,2023-03-11,England - Premier League
+42,52,28,868216,2023-03-18,England - Premier League
+66,35,28,868217,2023-03-18,England - Premier League
+55,46,28,868218,2023-03-18,England - Premier League
+51,33,28,868219,2023-03-18,England - Premier League
+49,45,28,868220,2023-03-18,England - Premier League
+40,36,28,868221,2023-03-18,England - Premier League
+50,48,28,868222,2023-03-18,England - Premier League
+65,34,28,868223,2023-03-18,England - Premier League
+41,47,28,868224,2023-03-18,England - Premier League
+39,63,28,868225,2023-03-18,England - Premier League
+35,36,29,868226,2023-04-01,England - Premier League
+42,63,29,868227,2023-04-01,England - Premier League
+51,55,29,868228,2023-04-01,England - Premier League
+49,66,29,868229,2023-04-01,England - Premier League
+52,46,29,868230,2023-04-01,England - Premier League
+45,47,29,868231,2023-04-01,England - Premier League
+50,40,29,868232,2023-04-01,England - Premier League
+34,33,29,868233,2023-04-01,England - Premier League
+65,39,29,868234,2023-04-01,England - Premier League
+48,41,29,868235,2023-04-01,England - Premier League
+66,65,30,868236,2023-04-08,England - Premier League
+55,34,30,868237,2023-04-08,England - Premier League
+36,48,30,868238,2023-04-08,England - Premier League
+63,52,30,868239,2023-04-08,England - Premier League
+46,35,30,868240,2023-04-08,England - Premier League
+40,42,30,868241,2023-04-08,England - Premier League
+33,45,30,868242,2023-04-08,England - Premier League
+41,50,30,868243,2023-04-08,England - Premier League
+47,51,30,868244,2023-04-08,England - Premier League
+39,49,30,868245,2023-04-08,England - Premier League
+66,34,31,868246,2023-04-15,England - Premier League
+49,51,31,868247,2023-04-15,England - Premier League
+45,36,31,868248,2023-04-15,England - Premier League
+63,40,31,868249,2023-04-15,England - Premier League
+50,46,31,868250,2023-04-15,England - Premier League
+65,33,31,868251,2023-04-15,England - Premier League
+41,52,31,868252,2023-04-15,England - Premier League
+47,35,31,868253,2023-04-15,England - Premier League
+48,42,31,868254,2023-04-15,England - Premier League
+39,55,31,868255,2023-04-15,England - Premier League
+35,48,32,868256,2023-04-22,England - Premier League
+42,41,32,868257,2023-04-22,England - Premier League
+55,66,32,868258,2023-04-22,England - Premier League
+51,50,32,868259,2023-04-22,England - Premier League
+52,45,32,868260,2023-04-22,England - Premier League
+36,63,32,868261,2023-04-22,England - Premier League
+46,39,32,868262,2023-04-22,England - Premier League
+40,65,32,868263,2023-04-22,England - Premier League
+33,49,32,868264,2023-04-22,England - Premier League
+34,47,32,868265,2023-04-22,England - Premier League
+45,34,33,868266,2023-04-25,England - Premier League
+63,46,33,868267,2023-04-25,England - Premier League
+65,51,33,868268,2023-04-25,England - Premier League
+47,33,33,868269,2023-04-25,England - Premier League
+48,40,33,868270,2023-04-25,England - Premier League
+39,52,33,868271,2023-04-25,England - Premier League
+66,36,33,868272,2023-04-25,England - Premier League
+49,55,33,868273,2023-04-26,England - Premier League
+41,35,33,868274,2023-04-26,England - Premier League
+50,42,33,868275,2023-04-26,England - Premier League
+35,63,34,868276,2023-04-29,England - Premier League
+42,49,34,868277,2023-04-29,England - Premier League
+55,65,34,868278,2023-04-29,England - Premier League
+51,39,34,868279,2023-04-29,England - Premier League
+52,48,34,868280,2023-04-29,England - Premier League
+36,50,34,868281,2023-04-29,England - Premier League
+46,45,34,868282,2023-04-29,England - Premier League
+40,47,34,868283,2023-04-29,England - Premier League
+33,66,34,868284,2023-04-29,England - Premier League
+34,41,34,868285,2023-04-29,England - Premier League
+35,49,35,868286,2023-05-06,England - Premier League
+51,45,35,868287,2023-05-06,England - Premier League
+36,46,35,868288,2023-05-06,England - Premier League
+40,55,35,868289,2023-05-06,England - Premier League
+50,63,35,868290,2023-05-06,England - Premier League
+34,42,35,868291,2023-05-06,England - Premier League
+65,41,35,868292,2023-05-06,England - Premier League
+47,52,35,868293,2023-05-06,England - Premier League
+48,33,35,868294,2023-05-06,England - Premier League
+39,66,35,868295,2023-05-06,England - Premier League
+42,51,36,868296,2023-05-13,England - Premier League
+66,47,36,868297,2023-05-13,England - Premier League
+55,48,36,868298,2023-05-13,England - Premier League
+49,65,36,868299,2023-05-13,England - Premier League
+52,35,36,868300,2023-05-13,England - Premier League
+45,50,36,868301,2023-05-13,England - Premier League
+63,34,36,868302,2023-05-13,England - Premier League
+46,40,36,868303,2023-05-13,England - Premier League
+33,39,36,868304,2023-05-13,England - Premier League
+41,36,36,868305,2023-05-13,England - Premier League
+35,33,37,868306,2023-05-20,England - Premier League
+51,41,37,868307,2023-05-20,England - Premier League
+36,52,37,868308,2023-05-20,England - Premier League
+40,66,37,868309,2023-05-20,England - Premier League
+50,49,37,868310,2023-05-20,England - Premier League
+34,46,37,868311,2023-05-20,England - Premier League
+65,42,37,868312,2023-05-20,England - Premier League
+47,55,37,868313,2023-05-20,England - Premier League
+48,63,37,868314,2023-05-20,England - Premier League
+39,45,37,868315,2023-05-20,England - Premier League
+42,39,38,868316,2023-05-28,England - Premier League
+66,51,38,868317,2023-05-28,England - Premier League
+55,50,38,868318,2023-05-28,England - Premier League
+49,34,38,868319,2023-05-28,England - Premier League
+52,65,38,868320,2023-05-28,England - Premier League
+45,35,38,868321,2023-05-28,England - Premier League
+63,47,38,868322,2023-05-28,England - Premier League
+46,48,38,868323,2023-05-28,England - Premier League
+33,36,38,868324,2023-05-28,England - Premier League
+41,40,38,868325,2023-05-28,England - Premier League
+502,496,5,881820,2022-09-03,Italy - Serie A
+489,505,5,881821,2022-09-03,Italy - Serie A
+487,492,5,881822,2022-09-03,Italy - Serie A
+520,488,5,881823,2022-09-04,Italy - Serie A
+515,500,5,881824,2022-09-04,Italy - Serie A
+504,498,5,881825,2022-09-04,Italy - Serie A
+494,497,5,881826,2022-09-04,Italy - Serie A
+1579,499,5,881827,2022-09-05,Italy - Serie A
+514,511,5,881828,2022-09-05,Italy - Serie A
+503,867,5,881829,2022-09-05,Italy - Serie A
+499,520,6,881830,2022-09-11,Italy - Serie A
+500,502,6,881831,2022-09-11,Italy - Serie A
+511,497,6,881832,2022-09-12,Italy - Serie A
+505,503,6,881833,2022-09-10,Italy - Serie A
+496,514,6,881834,2022-09-11,Italy - Serie A
+487,504,6,881835,2022-09-11,Italy - Serie A
+867,1579,6,881836,2022-09-11,Italy - Serie A
+492,515,6,881837,2022-09-10,Italy - Serie A
+498,489,6,881838,2022-09-10,Italy - Serie A
+488,494,6,881839,2022-09-11,Italy - Serie A
+500,511,7,881840,2022-09-17,Italy - Serie A
+520,487,7,881841,2022-09-18,Italy - Serie A
+502,504,7,881842,2022-09-18,Italy - Serie A
+489,492,7,881843,2022-09-18,Italy - Serie A
+1579,496,7,881844,2022-09-18,Italy - Serie A
+497,499,7,881845,2022-09-18,Italy - Serie A
+514,867,7,881846,2022-09-16,Italy - Serie A
+515,498,7,881847,2022-09-17,Italy - Serie A
+503,488,7,881848,2022-09-17,Italy - Serie A
+494,505,7,881849,2022-09-18,Italy - Serie A
+499,502,8,881850,2022-10-02,Italy - Serie A
+511,489,8,881851,2022-10-01,Italy - Serie A
+504,494,8,881852,2022-10-03,Italy - Serie A
+505,497,8,881853,2022-10-01,Italy - Serie A
+496,500,8,881854,2022-10-02,Italy - Serie A
+487,515,8,881855,2022-10-02,Italy - Serie A
+867,520,8,881856,2022-10-02,Italy - Serie A
+492,503,8,881857,2022-10-01,Italy - Serie A
+498,1579,8,881858,2022-10-02,Italy - Serie A
+488,514,8,881859,2022-10-02,Italy - Serie A
+500,498,9,881860,2022-10-08,Italy - Serie A
+520,492,9,881861,2022-10-09,Italy - Serie A
+502,487,9,881862,2022-10-10,Italy - Serie A
+489,496,9,881863,2022-10-08,Italy - Serie A
+1579,515,9,881864,2022-10-09,Italy - Serie A
+497,867,9,881865,2022-10-09,Italy - Serie A
+514,504,9,881866,2022-10-09,Italy - Serie A
+488,505,9,881867,2022-10-08,Italy - Serie A
+503,511,9,881868,2022-10-09,Italy - Serie A
+494,499,9,881869,2022-10-09,Italy - Serie A
+499,488,10,881870,2022-10-15,Italy - Serie A
+511,1579,10,881871,2022-10-15,Italy - Serie A
+504,489,10,881872,2022-10-16,Italy - Serie A
+505,514,10,881873,2022-10-16,Italy - Serie A
+487,494,10,881874,2022-10-16,Italy - Serie A
+867,502,10,881875,2022-10-17,Italy - Serie A
+492,500,10,881876,2022-10-16,Italy - Serie A
+498,497,10,881877,2022-10-17,Italy - Serie A
+515,520,10,881878,2022-10-16,Italy - Serie A
+503,496,10,881879,2022-10-15,Italy - Serie A
+499,487,11,881880,2022-10-23,Italy - Serie A
+500,867,11,881881,2022-10-23,Italy - Serie A
+520,498,11,881882,2022-10-24,Italy - Serie A
+502,505,11,881883,2022-10-22,Italy - Serie A
+496,511,11,881884,2022-10-21,Italy - Serie A
+489,1579,11,881885,2022-10-22,Italy - Serie A
+497,492,11,881886,2022-10-23,Italy - Serie A
+514,515,11,881887,2022-10-22,Italy - Serie A
+488,504,11,881888,2022-10-24,Italy - Serie A
+494,503,11,881889,2022-10-23,Italy - Serie A
+520,494,12,881890,2022-10-30,Italy - Serie A
+504,497,12,881891,2022-10-31,Italy - Serie A
+505,498,12,881892,2022-10-29,Italy - Serie A
+487,514,12,881893,2022-10-30,Italy - Serie A
+492,488,12,881894,2022-10-29,Italy - Serie A
+511,499,12,881895,2022-10-30,Italy - Serie A
+1579,500,12,881896,2022-10-31,Italy - Serie A
+515,502,12,881897,2022-10-30,Italy - Serie A
+867,496,12,881898,2022-10-29,Italy - Serie A
+503,489,12,881899,2022-10-30,Italy - Serie A
+499,492,13,881900,2022-11-05,Italy - Serie A
+500,503,13,881901,2022-11-06,Italy - Serie A
+511,488,13,881902,2022-11-05,Italy - Serie A
+489,515,13,881903,2022-11-05,Italy - Serie A
+514,520,13,881904,2022-11-05,Italy - Serie A
+498,502,13,881905,2022-11-06,Italy - Serie A
+1579,504,13,881906,2022-11-06,Italy - Serie A
+496,505,13,881907,2022-11-06,Italy - Serie A
+497,487,13,881908,2022-11-06,Italy - Serie A
+494,867,13,881909,2022-11-04,Italy - Serie A
+520,489,14,881910,2022-11-08,Italy - Serie A
+502,514,14,881911,2022-11-09,Italy - Serie A
+504,496,14,881912,2022-11-10,Italy - Serie A
+505,500,14,881913,2022-11-09,Italy - Serie A
+487,1579,14,881914,2022-11-10,Italy - Serie A
+867,499,14,881915,2022-11-09,Italy - Serie A
+492,511,14,881916,2022-11-08,Italy - Serie A
+488,497,14,881917,2022-11-09,Italy - Serie A
+515,494,14,881918,2022-11-08,Italy - Serie A
+503,498,14,881919,2022-11-09,Italy - Serie A
+499,505,15,881920,2022-11-13,Italy - Serie A
+500,488,15,881921,2022-11-12,Italy - Serie A
+511,520,15,881922,2022-11-11,Italy - Serie A
+504,515,15,881923,2022-11-13,Italy - Serie A
+496,487,15,881924,2022-11-13,Italy - Serie A
+489,502,15,881925,2022-11-13,Italy - Serie A
+1579,514,15,881926,2022-11-13,Italy - Serie A
+492,494,15,881927,2022-11-12,Italy - Serie A
+497,503,15,881928,2022-11-13,Italy - Serie A
+498,867,15,881929,2022-11-12,Italy - Serie A
+520,496,16,881930,2023-01-04,Italy - Serie A
+502,1579,16,881931,2023-01-04,Italy - Serie A
+505,492,16,881932,2023-01-04,Italy - Serie A
+515,499,16,881933,2023-01-04,Italy - Serie A
+497,500,16,881934,2023-01-04,Italy - Serie A
+494,511,16,881935,2023-01-04,Italy - Serie A
+503,504,16,881936,2023-01-04,Italy - Serie A
+867,487,16,881937,2023-01-04,Italy - Serie A
+514,489,16,881938,2023-01-04,Italy - Serie A
+488,498,16,881939,2023-01-04,Italy - Serie A
+500,499,17,881940,2023-01-09,Italy - Serie A
+502,488,17,881941,2023-01-07,Italy - Serie A
+504,520,17,881942,2023-01-09,Italy - Serie A
+496,494,17,881943,2023-01-07,Italy - Serie A
+487,511,17,881944,2023-01-08,Italy - Serie A
+489,497,17,881945,2023-01-08,Italy - Serie A
+1579,505,17,881946,2023-01-07,Italy - Serie A
+514,503,17,881947,2023-01-08,Italy - Serie A
+498,492,17,881948,2023-01-08,Italy - Serie A
+515,867,17,881949,2023-01-08,Italy - Serie A
+499,514,18,881950,2023-01-15,Italy - Serie A
+520,1579,18,881951,2023-01-14,Italy - Serie A
+511,498,18,881952,2023-01-16,Italy - Serie A
+505,504,18,881953,2023-01-14,Italy - Serie A
+867,489,18,881954,2023-01-14,Italy - Serie A
+492,496,18,881955,2023-01-13,Italy - Serie A
+497,502,18,881956,2023-01-15,Italy - Serie A
+488,487,18,881957,2023-01-15,Italy - Serie A
+503,515,18,881958,2023-01-15,Italy - Serie A
+494,500,18,881959,2023-01-15,Italy - Serie A
+500,520,19,881960,2023-01-23,Italy - Serie A
+502,503,19,881961,2023-01-21,Italy - Serie A
+504,867,19,881962,2023-01-21,Italy - Serie A
+505,511,19,881963,2023-01-23,Italy - Serie A
+496,499,19,881964,2023-01-22,Italy - Serie A
+487,489,19,881965,2023-01-24,Italy - Serie A
+1579,488,19,881966,2023-01-22,Italy - Serie A
+514,492,19,881967,2023-01-21,Italy - Serie A
+498,494,19,881968,2023-01-22,Italy - Serie A
+515,497,19,881969,2023-01-22,Italy - Serie A
+499,498,20,881970,2023-01-28,Italy - Serie A
+500,515,20,881971,2023-01-27,Italy - Serie A
+520,505,20,881972,2023-01-28,Italy - Serie A
+511,503,20,881973,2023-01-28,Italy - Serie A
+496,1579,20,881974,2023-01-29,Italy - Serie A
+867,514,20,881975,2023-01-27,Italy - Serie A
+489,488,20,881976,2023-01-29,Italy - Serie A
+492,497,20,881977,2023-01-29,Italy - Serie A
+487,502,20,881978,2023-01-29,Italy - Serie A
+494,504,20,881979,2023-01-30,Italy - Serie A
+520,867,21,881980,2023-02-05,Italy - Serie A
+502,500,21,881981,2023-02-05,Italy - Serie A
+504,487,21,881982,2023-02-06,Italy - Serie A
+505,489,21,881983,2023-02-05,Italy - Serie A
+1579,498,21,881984,2023-02-06,Italy - Serie A
+497,511,21,881985,2023-02-04,Italy - Serie A
+514,496,21,881986,2023-02-07,Italy - Serie A
+488,499,21,881987,2023-02-04,Italy - Serie A
+515,492,21,881988,2023-02-05,Italy - Serie A
+503,494,21,881989,2023-02-05,Italy - Serie A
+500,1579,22,881990,2023-02-12,Italy - Serie A
+511,515,22,881991,2023-02-11,Italy - Serie A
+504,514,22,881992,2023-02-13,Italy - Serie A
+496,502,22,881993,2023-02-12,Italy - Serie A
+487,499,22,881994,2023-02-11,Italy - Serie A
+867,497,22,881995,2023-02-11,Italy - Serie A
+489,503,22,881996,2023-02-10,Italy - Serie A
+492,520,22,881997,2023-02-12,Italy - Serie A
+498,505,22,881998,2023-02-13,Italy - Serie A
+494,488,22,881999,2023-02-12,Italy - Serie A
+499,867,23,882000,2023-02-19,Italy - Serie A
+502,511,23,882001,2023-02-19,Italy - Serie A
+505,494,23,882002,2023-02-18,Italy - Serie A
+1579,489,23,882003,2023-02-19,Italy - Serie A
+497,504,23,882004,2023-02-19,Italy - Serie A
+514,487,23,882005,2023-02-19,Italy - Serie A
+498,500,23,882006,2023-02-19,Italy - Serie A
+488,492,23,882007,2023-02-17,Italy - Serie A
+515,496,23,882008,2023-02-19,Italy - Serie A
+503,520,23,882009,2023-02-20,Italy - Serie A
+500,505,24,882010,2023-02-26,Italy - Serie A
+520,497,24,882011,2023-02-28,Italy - Serie A
+511,492,24,882012,2023-02-25,Italy - Serie A
+496,503,24,882013,2023-02-28,Italy - Serie A
+487,498,24,882014,2023-02-27,Italy - Serie A
+867,488,24,882015,2023-02-25,Italy - Serie A
+489,499,24,882016,2023-02-26,Italy - Serie A
+504,502,24,882017,2023-02-27,Italy - Serie A
+514,1579,24,882018,2023-02-26,Italy - Serie A
+494,515,24,882019,2023-02-26,Italy - Serie A
+499,494,25,882020,2023-03-04,Italy - Serie A
+502,489,25,882021,2023-03-04,Italy - Serie A
+505,867,25,882022,2023-03-05,Italy - Serie A
+1579,511,25,882023,2023-03-04,Italy - Serie A
+492,487,25,882024,2023-03-03,Italy - Serie A
+497,496,25,882025,2023-03-05,Italy - Serie A
+498,514,25,882026,2023-03-05,Italy - Serie A
+488,520,25,882027,2023-03-06,Italy - Serie A
+515,504,25,882028,2023-03-05,Italy - Serie A
+503,500,25,882029,2023-03-06,Italy - Serie A
+500,487,26,882030,2023-03-11,Italy - Serie A
+520,502,26,882031,2023-03-12,Italy - Serie A
+511,494,26,882032,2023-03-12,Italy - Serie A
+504,1579,26,882033,2023-03-12,Italy - Serie A
+496,498,26,882034,2023-03-12,Italy - Serie A
+867,503,26,882035,2023-03-12,Italy - Serie A
+489,514,26,882036,2023-03-13,Italy - Serie A
+497,488,26,882037,2023-03-12,Italy - Serie A
+492,499,26,882038,2023-03-12,Italy - Serie A
+515,505,26,882039,2023-03-10,Italy - Serie A
+499,511,27,882040,2023-03-17,Italy - Serie A
+502,867,27,882041,2023-03-19,Italy - Serie A
+505,496,27,882042,2023-03-19,Italy - Serie A
+487,497,27,882043,2023-03-19,Italy - Serie A
+488,515,27,882044,2023-03-17,Italy - Serie A
+514,500,27,882045,2023-03-18,Italy - Serie A
+1579,520,27,882046,2023-03-19,Italy - Serie A
+498,504,27,882047,2023-03-19,Italy - Serie A
+494,489,27,882048,2023-03-18,Italy - Serie A
+503,492,27,882049,2023-03-19,Italy - Serie A
+500,494,28,882050,2023-04-03,Italy - Serie A
+511,867,28,882051,2023-04-03,Italy - Serie A
+497,498,28,882052,2023-04-02,Italy - Serie A
+488,503,28,882053,2023-04-02,Italy - Serie A
+520,499,28,882054,2023-04-02,Italy - Serie A
+505,502,28,882055,2023-04-01,Italy - Serie A
+496,504,28,882056,2023-04-01,Italy - Serie A
+1579,487,28,882057,2023-04-02,Italy - Serie A
+492,489,28,882058,2023-04-02,Italy - Serie A
+515,514,28,882059,2023-04-02,Italy - Serie A
+499,500,29,882060,2023-04-08,Italy - Serie A
+502,515,29,882061,2023-04-08,Italy - Serie A
+504,488,29,882062,2023-04-08,Italy - Serie A
+867,492,29,882063,2023-04-08,Italy - Serie A
+498,520,29,882064,2023-04-08,Italy - Serie A
+489,511,29,882065,2023-04-08,Italy - Serie A
+514,505,29,882066,2023-04-08,Italy - Serie A
+487,496,29,882067,2023-04-08,Italy - Serie A
+494,1579,29,882068,2023-04-08,Italy - Serie A
+503,497,29,882069,2023-04-08,Italy - Serie A
+500,489,30,882070,2023-04-16,Italy - Serie A
+520,511,30,882071,2023-04-16,Italy - Serie A
+505,1579,30,882072,2023-04-16,Italy - Serie A
+867,498,30,882073,2023-04-16,Italy - Serie A
+497,494,30,882074,2023-04-16,Italy - Serie A
+502,499,30,882075,2023-04-16,Italy - Serie A
+492,504,30,882076,2023-04-16,Italy - Serie A
+488,496,30,882077,2023-04-16,Italy - Serie A
+515,487,30,882078,2023-04-16,Italy - Serie A
+503,514,30,882079,2023-04-16,Italy - Serie A
+499,497,31,882080,2023-04-23,Italy - Serie A
+511,505,31,882081,2023-04-23,Italy - Serie A
+496,492,31,882082,2023-04-23,Italy - Serie A
+487,503,31,882083,2023-04-23,Italy - Serie A
+514,488,31,882084,2023-04-23,Italy - Serie A
+498,515,31,882085,2023-04-23,Italy - Serie A
+504,500,31,882086,2023-04-23,Italy - Serie A
+494,520,31,882087,2023-04-23,Italy - Serie A
+1579,502,31,882088,2023-04-23,Italy - Serie A
+489,867,31,882089,2023-04-23,Italy - Serie A
+500,496,32,882090,2023-04-30,Italy - Serie A
+520,504,32,882091,2023-04-30,Italy - Serie A
+502,498,32,882092,2023-04-30,Italy - Serie A
+505,487,32,882093,2023-04-30,Italy - Serie A
+867,494,32,882094,2023-04-30,Italy - Serie A
+492,514,32,882095,2023-04-30,Italy - Serie A
+503,499,32,882096,2023-04-30,Italy - Serie A
+488,511,32,882097,2023-04-30,Italy - Serie A
+497,489,32,882098,2023-04-30,Italy - Serie A
+515,1579,32,882099,2023-04-30,Italy - Serie A
+499,515,33,882100,2023-05-03,Italy - Serie A
+504,505,33,882101,2023-05-03,Italy - Serie A
+496,867,33,882102,2023-05-03,Italy - Serie A
+487,488,33,882103,2023-05-03,Italy - Serie A
+1579,497,33,882104,2023-05-03,Italy - Serie A
+498,503,33,882105,2023-05-03,Italy - Serie A
+511,500,33,882106,2023-05-03,Italy - Serie A
+489,520,33,882107,2023-05-03,Italy - Serie A
+514,502,33,882108,2023-05-03,Italy - Serie A
+494,492,33,882109,2023-05-03,Italy - Serie A
+499,496,34,882110,2023-05-07,Italy - Serie A
+520,515,34,882111,2023-05-07,Italy - Serie A
+511,514,34,882112,2023-05-07,Italy - Serie A
+488,500,34,882113,2023-05-07,Italy - Serie A
+492,502,34,882114,2023-05-07,Italy - Serie A
+867,504,34,882115,2023-05-07,Italy - Serie A
+497,505,34,882116,2023-05-07,Italy - Serie A
+489,487,34,882117,2023-05-07,Italy - Serie A
+503,1579,34,882118,2023-05-07,Italy - Serie A
+494,498,34,882119,2023-05-07,Italy - Serie A
+500,497,35,882120,2023-05-14,Italy - Serie A
+502,494,35,882121,2023-05-14,Italy - Serie A
+504,503,35,882122,2023-05-14,Italy - Serie A
+505,488,35,882123,2023-05-14,Italy - Serie A
+487,867,35,882124,2023-05-14,Italy - Serie A
+1579,492,35,882125,2023-05-14,Italy - Serie A
+514,499,35,882126,2023-05-14,Italy - Serie A
+496,520,35,882127,2023-05-14,Italy - Serie A
+498,511,35,882128,2023-05-14,Italy - Serie A
+515,489,35,882129,2023-05-14,Italy - Serie A
+499,504,36,882130,2023-05-21,Italy - Serie A
+511,496,36,882131,2023-05-21,Italy - Serie A
+867,515,36,882132,2023-05-21,Italy - Serie A
+489,498,36,882133,2023-05-21,Italy - Serie A
+497,514,36,882134,2023-05-21,Italy - Serie A
+520,500,36,882135,2023-05-21,Italy - Serie A
+503,502,36,882136,2023-05-21,Italy - Serie A
+492,505,36,882137,2023-05-21,Italy - Serie A
+494,487,36,882138,2023-05-21,Italy - Serie A
+488,1579,36,882139,2023-05-21,Italy - Serie A
+500,492,37,882140,2023-05-28,Italy - Serie A
+502,497,37,882141,2023-05-28,Italy - Serie A
+496,489,37,882142,2023-05-28,Italy - Serie A
+514,494,37,882143,2023-05-28,Italy - Serie A
+498,488,37,882144,2023-05-28,Italy - Serie A
+515,503,37,882145,2023-05-28,Italy - Serie A
+505,499,37,882146,2023-05-28,Italy - Serie A
+487,520,37,882147,2023-05-28,Italy - Serie A
+504,511,37,882148,2023-05-28,Italy - Serie A
+1579,867,37,882149,2023-05-28,Italy - Serie A
+499,1579,38,882150,2023-06-04,Italy - Serie A
+520,514,38,882151,2023-06-04,Italy - Serie A
+511,487,38,882152,2023-06-04,Italy - Serie A
+492,498,38,882153,2023-06-04,Italy - Serie A
+497,515,38,882154,2023-06-04,Italy - Serie A
+867,500,38,882155,2023-06-04,Italy - Serie A
+488,502,38,882156,2023-06-04,Italy - Serie A
+489,504,38,882157,2023-06-04,Italy - Serie A
+503,505,38,882158,2023-06-04,Italy - Serie A
+494,496,38,882159,2023-06-04,Italy - Serie A
+165,167,5,871200,2022-09-02,Germany - Bundesliga
+168,160,5,871201,2022-09-03,Germany - Bundesliga
+182,157,5,871202,2022-09-03,Germany - Bundesliga
+163,164,5,871203,2022-09-04,Germany - Bundesliga
+169,173,5,871204,2022-09-03,Germany - Bundesliga
+161,192,5,871205,2022-09-03,Germany - Bundesliga
+176,162,5,871206,2022-09-03,Germany - Bundesliga
+170,159,5,871207,2022-09-04,Germany - Bundesliga
+172,174,5,871208,2022-09-03,Germany - Bundesliga
+157,172,6,871209,2022-09-10,Germany - Bundesliga
+173,165,6,871210,2022-09-10,Germany - Bundesliga
+160,163,6,871211,2022-09-11,Germany - Bundesliga
+192,182,6,871212,2022-09-11,Germany - Bundesliga
+167,164,6,871213,2022-09-10,Germany - Bundesliga
+169,161,6,871214,2022-09-10,Germany - Bundesliga
+159,168,6,871215,2022-09-10,Germany - Bundesliga
+174,176,6,871216,2022-09-10,Germany - Bundesliga
+162,170,6,871217,2022-09-09,Germany - Bundesliga
+170,157,7,871218,2022-09-17,Germany - Bundesliga
+163,173,7,871219,2022-09-17,Germany - Bundesliga
+168,162,7,871220,2022-09-17,Germany - Bundesliga
+182,161,7,871221,2022-09-18,Germany - Bundesliga
+164,159,7,871222,2022-09-16,Germany - Bundesliga
+176,192,7,871223,2022-09-18,Germany - Bundesliga
+167,160,7,871224,2022-09-18,Germany - Bundesliga
+172,169,7,871225,2022-09-17,Germany - Bundesliga
+165,174,7,871226,2022-09-17,Germany - Bundesliga
+157,168,8,871227,2022-09-30,Germany - Bundesliga
+173,176,8,871228,2022-10-01,Germany - Bundesliga
+160,164,8,871229,2022-10-01,Germany - Bundesliga
+192,165,8,871230,2022-10-01,Germany - Bundesliga
+169,182,8,871231,2022-10-01,Germany - Bundesliga
+161,172,8,871232,2022-10-01,Germany - Bundesliga
+159,167,8,871233,2022-10-02,Germany - Bundesliga
+174,170,8,871234,2022-10-02,Germany - Bundesliga
+162,163,8,871235,2022-10-01,Germany - Bundesliga
+165,157,9,871236,2022-10-08,Germany - Bundesliga
+168,174,9,871237,2022-10-08,Germany - Bundesliga
+164,173,9,871238,2022-10-08,Germany - Bundesliga
+167,162,9,871239,2022-10-07,Germany - Bundesliga
+163,192,9,871240,2022-10-09,Germany - Bundesliga
+176,169,9,871241,2022-10-08,Germany - Bundesliga
+170,161,9,871242,2022-10-08,Germany - Bundesliga
+172,182,9,871243,2022-10-09,Germany - Bundesliga
+159,160,9,871244,2022-10-09,Germany - Bundesliga
+157,160,10,871245,2022-10-16,Germany - Bundesliga
+173,159,10,871246,2022-10-15,Germany - Bundesliga
+182,165,10,871247,2022-10-16,Germany - Bundesliga
+192,170,10,871248,2022-10-16,Germany - Bundesliga
+169,168,10,871249,2022-10-15,Germany - Bundesliga
+161,163,10,871250,2022-10-15,Germany - Bundesliga
+172,176,10,871251,2022-10-15,Germany - Bundesliga
+174,167,10,871252,2022-10-14,Germany - Bundesliga
+162,164,10,871253,2022-10-15,Germany - Bundesliga
+165,172,11,871254,2022-10-22,Germany - Bundesliga
+168,161,11,871255,2022-10-22,Germany - Bundesliga
+160,162,11,871256,2022-10-22,Germany - Bundesliga
+164,192,11,871257,2022-10-21,Germany - Bundesliga
+167,157,11,871258,2022-10-22,Germany - Bundesliga
+163,169,11,871259,2022-10-22,Germany - Bundesliga
+176,182,11,871260,2022-10-23,Germany - Bundesliga
+170,173,11,871261,2022-10-22,Germany - Bundesliga
+159,174,11,871262,2022-10-23,Germany - Bundesliga
+157,164,12,871263,2022-10-29,Germany - Bundesliga
+173,168,12,871264,2022-10-29,Germany - Bundesliga
+182,163,12,871265,2022-10-30,Germany - Bundesliga
+192,167,12,871266,2022-10-30,Germany - Bundesliga
+169,165,12,871267,2022-10-29,Germany - Bundesliga
+161,176,12,871268,2022-10-29,Germany - Bundesliga
+172,170,12,871269,2022-10-29,Germany - Bundesliga
+174,160,12,871270,2022-10-30,Germany - Bundesliga
+162,159,12,871271,2022-10-28,Germany - Bundesliga
+165,176,13,871272,2022-11-05,Germany - Bundesliga
+168,182,13,871273,2022-11-06,Germany - Bundesliga
+160,192,13,871274,2022-11-06,Germany - Bundesliga
+164,161,13,871275,2022-11-05,Germany - Bundesliga
+167,173,13,871276,2022-11-05,Germany - Bundesliga
+163,172,13,871277,2022-11-04,Germany - Bundesliga
+170,169,13,871278,2022-11-05,Germany - Bundesliga
+159,157,13,871279,2022-11-05,Germany - Bundesliga
+162,174,13,871280,2022-11-05,Germany - Bundesliga
+157,162,14,871281,2022-11-08,Germany - Bundesliga
+173,160,14,871282,2022-11-09,Germany - Bundesliga
+182,170,14,871283,2022-11-09,Germany - Bundesliga
+192,168,14,871284,2022-11-09,Germany - Bundesliga
+169,167,14,871285,2022-11-09,Germany - Bundesliga
+161,165,14,871286,2022-11-08,Germany - Bundesliga
+176,163,14,871287,2022-11-08,Germany - Bundesliga
+172,159,14,871288,2022-11-08,Germany - Bundesliga
+174,164,14,871289,2022-11-09,Germany - Bundesliga
+168,172,15,871290,2022-11-12,Germany - Bundesliga
+160,182,15,871291,2022-11-13,Germany - Bundesliga
+164,169,15,871292,2022-11-13,Germany - Bundesliga
+167,161,15,871293,2022-11-12,Germany - Bundesliga
+163,165,15,871294,2022-11-11,Germany - Bundesliga
+170,176,15,871295,2022-11-12,Germany - Bundesliga
+159,192,15,871296,2022-11-12,Germany - Bundesliga
+174,157,15,871297,2022-11-12,Germany - Bundesliga
+162,173,15,871298,2022-11-12,Germany - Bundesliga
+165,170,16,871299,2023-01-22,Germany - Bundesliga
+173,157,16,871300,2023-01-20,Germany - Bundesliga
+182,167,16,871301,2023-01-21,Germany - Bundesliga
+192,162,16,871302,2023-01-21,Germany - Bundesliga
+163,168,16,871303,2023-01-22,Germany - Bundesliga
+169,174,16,871304,2023-01-21,Germany - Bundesliga
+161,160,16,871305,2023-01-21,Germany - Bundesliga
+176,159,16,871306,2023-01-21,Germany - Bundesliga
+172,164,16,871307,2023-01-21,Germany - Bundesliga
+157,192,17,871308,2023-01-24,Germany - Bundesliga
+168,176,17,871309,2023-01-25,Germany - Bundesliga
+160,169,17,871310,2023-01-25,Germany - Bundesliga
+164,165,17,871311,2023-01-25,Germany - Bundesliga
+167,172,17,871312,2023-01-24,Germany - Bundesliga
+170,163,17,871313,2023-01-25,Germany - Bundesliga
+159,161,17,871314,2023-01-24,Germany - Bundesliga
+174,173,17,871315,2023-01-24,Germany - Bundesliga
+162,182,17,871316,2023-01-25,Germany - Bundesliga
+157,169,18,871317,2023-01-28,Germany - Bundesliga
+168,165,18,871318,2023-01-29,Germany - Bundesliga
+173,172,18,871319,2023-01-27,Germany - Bundesliga
+160,170,18,871320,2023-01-28,Germany - Bundesliga
+164,176,18,871321,2023-01-28,Germany - Bundesliga
+167,163,18,871322,2023-01-28,Germany - Bundesliga
+159,182,18,871323,2023-01-28,Germany - Bundesliga
+174,192,18,871324,2023-01-29,Germany - Bundesliga
+162,161,18,871325,2023-01-28,Germany - Bundesliga
+165,160,19,871326,2023-02-04,Germany - Bundesliga
+182,164,19,871327,2023-02-04,Germany - Bundesliga
+192,173,19,871328,2023-02-04,Germany - Bundesliga
+163,174,19,871329,2023-02-04,Germany - Bundesliga
+169,159,19,871330,2023-02-04,Germany - Bundesliga
+161,157,19,871331,2023-02-05,Germany - Bundesliga
+176,167,19,871332,2023-02-04,Germany - Bundesliga
+170,168,19,871333,2023-02-04,Germany - Bundesliga
+172,162,19,871334,2023-02-05,Germany - Bundesliga
+157,176,20,871335,2023-02-11,Germany - Bundesliga
+173,182,20,871336,2023-02-11,Germany - Bundesliga
+160,172,20,871337,2023-02-11,Germany - Bundesliga
+192,169,20,871338,2023-02-12,Germany - Bundesliga
+164,170,20,871339,2023-02-11,Germany - Bundesliga
+167,168,20,871340,2023-02-11,Germany - Bundesliga
+159,163,20,871341,2023-02-12,Germany - Bundesliga
+174,161,20,871342,2023-02-11,Germany - Bundesliga
+162,165,20,871343,2023-02-11,Germany - Bundesliga
+165,159,21,871344,2023-02-19,Germany - Bundesliga
+168,164,21,871345,2023-02-19,Germany - Bundesliga
+182,174,21,871346,2023-02-19,Germany - Bundesliga
+163,157,21,871347,2023-02-18,Germany - Bundesliga
+169,162,21,871348,2023-02-18,Germany - Bundesliga
+161,173,21,871349,2023-02-18,Germany - Bundesliga
+176,160,21,871350,2023-02-18,Germany - Bundesliga
+170,167,21,871351,2023-02-17,Germany - Bundesliga
+172,192,21,871352,2023-02-18,Germany - Bundesliga
+157,182,22,871353,2023-02-26,Germany - Bundesliga
+173,169,22,871354,2023-02-25,Germany - Bundesliga
+160,168,22,871355,2023-02-26,Germany - Bundesliga
+192,161,22,871356,2023-02-25,Germany - Bundesliga
+164,163,22,871357,2023-02-25,Germany - Bundesliga
+167,165,22,871358,2023-02-25,Germany - Bundesliga
+159,170,22,871359,2023-02-25,Germany - Bundesliga
+174,172,22,871360,2023-02-25,Germany - Bundesliga
+162,176,22,871361,2023-02-25,Germany - Bundesliga
+165,173,23,871362,2023-03-04,Germany - Bundesliga
+168,159,23,871363,2023-03-05,Germany - Bundesliga
+182,192,23,871364,2023-03-04,Germany - Bundesliga
+164,167,23,871365,2023-03-04,Germany - Bundesliga
+163,160,23,871366,2023-03-04,Germany - Bundesliga
+161,169,23,871367,2023-03-05,Germany - Bundesliga
+176,174,23,871368,2023-03-04,Germany - Bundesliga
+170,162,23,871369,2023-03-04,Germany - Bundesliga
+172,157,23,871370,2023-03-04,Germany - Bundesliga
+157,170,24,871371,2023-03-11,Germany - Bundesliga
+173,163,24,871372,2023-03-11,Germany - Bundesliga
+160,167,24,871373,2023-03-12,Germany - Bundesliga
+192,176,24,871374,2023-03-10,Germany - Bundesliga
+169,172,24,871375,2023-03-11,Germany - Bundesliga
+161,182,24,871376,2023-03-12,Germany - Bundesliga
+159,164,24,871377,2023-03-11,Germany - Bundesliga
+174,165,24,871378,2023-03-11,Germany - Bundesliga
+162,168,24,871379,2023-03-12,Germany - Bundesliga
+165,192,25,871380,2023-03-18,Germany - Bundesliga
+168,157,25,871381,2023-03-19,Germany - Bundesliga
+182,169,25,871382,2023-03-19,Germany - Bundesliga
+164,160,25,871383,2023-03-19,Germany - Bundesliga
+167,159,25,871384,2023-03-18,Germany - Bundesliga
+163,162,25,871385,2023-03-17,Germany - Bundesliga
+176,173,25,871386,2023-03-18,Germany - Bundesliga
+170,174,25,871387,2023-03-18,Germany - Bundesliga
+172,161,25,871388,2023-03-18,Germany - Bundesliga
+157,165,26,871389,2023-04-01,Germany - Bundesliga
+173,164,26,871390,2023-04-01,Germany - Bundesliga
+182,172,26,871391,2023-04-01,Germany - Bundesliga
+160,159,26,871392,2023-04-01,Germany - Bundesliga
+192,163,26,871393,2023-04-01,Germany - Bundesliga
+169,176,26,871394,2023-04-01,Germany - Bundesliga
+161,170,26,871395,2023-04-01,Germany - Bundesliga
+174,168,26,871396,2023-04-01,Germany - Bundesliga
+162,167,26,871397,2023-04-01,Germany - Bundesliga
+165,182,27,871398,2023-04-08,Germany - Bundesliga
+168,169,27,871399,2023-04-08,Germany - Bundesliga
+160,157,27,871400,2023-04-08,Germany - Bundesliga
+164,162,27,871401,2023-04-08,Germany - Bundesliga
+167,174,27,871402,2023-04-08,Germany - Bundesliga
+163,161,27,871403,2023-04-08,Germany - Bundesliga
+176,172,27,871404,2023-04-08,Germany - Bundesliga
+170,192,27,871405,2023-04-08,Germany - Bundesliga
+159,173,27,871406,2023-04-08,Germany - Bundesliga
+157,167,28,871407,2023-04-15,Germany - Bundesliga
+173,170,28,871408,2023-04-15,Germany - Bundesliga
+182,176,28,871409,2023-04-15,Germany - Bundesliga
+192,164,28,871410,2023-04-15,Germany - Bundesliga
+169,163,28,871411,2023-04-15,Germany - Bundesliga
+161,168,28,871412,2023-04-15,Germany - Bundesliga
+172,165,28,871413,2023-04-15,Germany - Bundesliga
+174,159,28,871414,2023-04-15,Germany - Bundesliga
+162,160,28,871415,2023-04-15,Germany - Bundesliga
+165,169,29,871416,2023-04-22,Germany - Bundesliga
+168,173,29,871417,2023-04-22,Germany - Bundesliga
+160,174,29,871418,2023-04-22,Germany - Bundesliga
+164,157,29,871419,2023-04-22,Germany - Bundesliga
+167,192,29,871420,2023-04-22,Germany - Bundesliga
+163,182,29,871421,2023-04-22,Germany - Bundesliga
+176,161,29,871422,2023-04-22,Germany - Bundesliga
+170,172,29,871423,2023-04-22,Germany - Bundesliga
+159,162,29,871424,2023-04-22,Germany - Bundesliga
+157,159,30,871425,2023-04-29,Germany - Bundesliga
+173,167,30,871426,2023-04-29,Germany - Bundesliga
+182,168,30,871427,2023-04-29,Germany - Bundesliga
+192,160,30,871428,2023-04-29,Germany - Bundesliga
+169,170,30,871429,2023-04-29,Germany - Bundesliga
+161,164,30,871430,2023-04-29,Germany - Bundesliga
+176,165,30,871431,2023-04-29,Germany - Bundesliga
+172,163,30,871432,2023-04-29,Germany - Bundesliga
+174,162,30,871433,2023-04-29,Germany - Bundesliga
+165,161,31,871434,2023-05-06,Germany - Bundesliga
+168,192,31,871435,2023-05-06,Germany - Bundesliga
+160,173,31,871436,2023-05-06,Germany - Bundesliga
+164,174,31,871437,2023-05-06,Germany - Bundesliga
+167,169,31,871438,2023-05-06,Germany - Bundesliga
+163,176,31,871439,2023-05-06,Germany - Bundesliga
+170,182,31,871440,2023-05-06,Germany - Bundesliga
+159,172,31,871441,2023-05-06,Germany - Bundesliga
+162,157,31,871442,2023-05-06,Germany - Bundesliga
+157,174,32,871443,2023-05-13,Germany - Bundesliga
+165,163,32,871444,2023-05-13,Germany - Bundesliga
+173,162,32,871445,2023-05-13,Germany - Bundesliga
+182,160,32,871446,2023-05-13,Germany - Bundesliga
+192,159,32,871447,2023-05-13,Germany - Bundesliga
+169,164,32,871448,2023-05-13,Germany - Bundesliga
+161,167,32,871449,2023-05-13,Germany - Bundesliga
+176,170,32,871450,2023-05-13,Germany - Bundesliga
+172,168,32,871451,2023-05-13,Germany - Bundesliga
+157,173,33,871452,2023-05-20,Germany - Bundesliga
+168,163,33,871453,2023-05-20,Germany - Bundesliga
+160,161,33,871454,2023-05-20,Germany - Bundesliga
+164,172,33,871455,2023-05-20,Germany - Bundesliga
+167,182,33,871456,2023-05-20,Germany - Bundesliga
+170,165,33,871457,2023-05-20,Germany - Bundesliga
+159,176,33,871458,2023-05-20,Germany - Bundesliga
+174,169,33,871459,2023-05-20,Germany - Bundesliga
+162,192,33,871460,2023-05-20,Germany - Bundesliga
+165,164,34,871461,2023-05-27,Germany - Bundesliga
+173,174,34,871462,2023-05-27,Germany - Bundesliga
+182,162,34,871463,2023-05-27,Germany - Bundesliga
+192,157,34,871464,2023-05-27,Germany - Bundesliga
+163,170,34,871465,2023-05-27,Germany - Bundesliga
+169,160,34,871466,2023-05-27,Germany - Bundesliga
+161,159,34,871467,2023-05-27,Germany - Bundesliga
+176,168,34,871468,2023-05-27,Germany - Bundesliga
+172,167,34,871469,2023-05-27,Germany - Bundesliga
+205,207,5,872260,2022-09-02,Netherlands - Eredivisie
+194,420,5,872261,2022-09-03,Netherlands - Eredivisie
+415,197,5,872262,2022-09-03,Netherlands - Eredivisie
+426,416,5,872263,2022-09-03,Netherlands - Eredivisie
+410,209,5,872264,2022-09-03,Netherlands - Eredivisie
+417,196,5,872265,2022-09-04,Netherlands - Eredivisie
+208,201,5,872266,2022-09-04,Netherlands - Eredivisie
+210,413,5,872267,2022-09-04,Netherlands - Eredivisie
+202,200,5,872268,2022-09-04,Netherlands - Eredivisie
+416,410,6,872269,2022-09-09,Netherlands - Eredivisie
+413,205,6,872270,2022-09-10,Netherlands - Eredivisie
+194,210,6,872271,2022-09-10,Netherlands - Eredivisie
+196,208,6,872272,2022-09-10,Netherlands - Eredivisie
+197,417,6,872273,2022-09-11,Netherlands - Eredivisie
+207,200,6,872274,2022-09-11,Netherlands - Eredivisie
+420,202,6,872275,2022-09-11,Netherlands - Eredivisie
+201,415,6,872276,2022-09-11,Netherlands - Eredivisie
+209,426,6,872277,2022-09-11,Netherlands - Eredivisie
+207,413,7,872278,2022-09-16,Netherlands - Eredivisie
+426,202,7,872279,2022-09-17,Netherlands - Eredivisie
+200,416,7,872280,2022-09-17,Netherlands - Eredivisie
+417,420,7,872281,2022-09-17,Netherlands - Eredivisie
+205,196,7,872282,2022-09-17,Netherlands - Eredivisie
+410,208,7,872283,2022-09-18,Netherlands - Eredivisie
+197,209,7,872284,2022-09-18,Netherlands - Eredivisie
+210,415,7,872285,2022-09-18,Netherlands - Eredivisie
+201,194,7,872286,2022-09-18,Netherlands - Eredivisie
+420,197,8,872287,2022-10-01,Netherlands - Eredivisie
+196,207,8,872288,2022-10-02,Netherlands - Eredivisie
+194,410,8,872289,2022-10-01,Netherlands - Eredivisie
+415,200,8,872290,2022-10-01,Netherlands - Eredivisie
+202,201,8,872291,2022-10-01,Netherlands - Eredivisie
+208,210,8,872292,2022-10-02,Netherlands - Eredivisie
+205,416,8,872293,2022-10-02,Netherlands - Eredivisie
+413,209,8,872294,2022-10-02,Netherlands - Eredivisie
+417,426,8,872295,2022-10-02,Netherlands - Eredivisie
+202,417,9,872296,2022-10-07,Netherlands - Eredivisie
+416,194,9,872297,2022-10-08,Netherlands - Eredivisie
+413,196,9,872298,2022-10-08,Netherlands - Eredivisie
+426,208,9,872299,2022-10-08,Netherlands - Eredivisie
+210,197,9,872300,2022-10-09,Netherlands - Eredivisie
+410,420,9,872301,2022-10-09,Netherlands - Eredivisie
+209,415,9,872302,2022-10-09,Netherlands - Eredivisie
+200,205,9,872303,2022-10-09,Netherlands - Eredivisie
+207,201,9,872304,2022-10-09,Netherlands - Eredivisie
+208,416,10,872305,2022-10-14,Netherlands - Eredivisie
+410,210,10,872306,2022-10-15,Netherlands - Eredivisie
+194,196,10,872307,2022-10-16,Netherlands - Eredivisie
+205,417,10,872308,2022-10-15,Netherlands - Eredivisie
+420,200,10,872309,2022-10-15,Netherlands - Eredivisie
+426,413,10,872310,2022-10-16,Netherlands - Eredivisie
+415,202,10,872311,2022-10-16,Netherlands - Eredivisie
+197,207,10,872312,2022-10-16,Netherlands - Eredivisie
+201,209,10,872313,2022-10-16,Netherlands - Eredivisie
+209,205,11,872314,2022-10-22,Netherlands - Eredivisie
+417,194,11,872315,2022-10-22,Netherlands - Eredivisie
+420,415,11,872316,2022-10-23,Netherlands - Eredivisie
+200,208,11,872317,2022-10-22,Netherlands - Eredivisie
+202,197,11,872318,2022-10-23,Netherlands - Eredivisie
+196,201,11,872319,2022-10-23,Netherlands - Eredivisie
+416,210,11,872320,2022-10-23,Netherlands - Eredivisie
+413,410,11,872321,2022-10-23,Netherlands - Eredivisie
+207,426,11,872322,2022-10-23,Netherlands - Eredivisie
+194,200,12,872323,2022-11-09,Netherlands - Eredivisie
+201,416,12,872324,2022-10-30,Netherlands - Eredivisie
+208,202,12,872325,2022-10-30,Netherlands - Eredivisie
+415,417,12,872326,2022-10-30,Netherlands - Eredivisie
+209,420,12,872327,2022-11-10,Netherlands - Eredivisie
+410,196,12,872328,2022-10-29,Netherlands - Eredivisie
+197,413,12,872329,2022-10-30,Netherlands - Eredivisie
+210,207,12,872330,2022-10-29,Netherlands - Eredivisie
+426,205,12,872331,2022-10-29,Netherlands - Eredivisie
+194,197,13,872332,2022-11-06,Netherlands - Eredivisie
+196,210,13,872333,2022-11-05,Netherlands - Eredivisie
+415,410,13,872334,2022-11-06,Netherlands - Eredivisie
+207,202,13,872335,2022-11-06,Netherlands - Eredivisie
+416,209,13,872336,2022-11-06,Netherlands - Eredivisie
+205,208,13,872337,2022-11-05,Netherlands - Eredivisie
+417,201,13,872338,2022-11-06,Netherlands - Eredivisie
+420,413,13,872339,2022-11-04,Netherlands - Eredivisie
+200,426,13,872340,2022-11-05,Netherlands - Eredivisie
+208,194,14,872341,2022-11-12,Netherlands - Eredivisie
+202,205,14,872342,2022-11-13,Netherlands - Eredivisie
+416,207,14,872343,2022-11-12,Netherlands - Eredivisie
+209,196,14,872344,2022-11-13,Netherlands - Eredivisie
+410,200,14,872345,2022-11-13,Netherlands - Eredivisie
+413,417,14,872346,2022-11-13,Netherlands - Eredivisie
+197,201,14,872347,2022-11-12,Netherlands - Eredivisie
+210,420,14,872348,2022-11-13,Netherlands - Eredivisie
+426,415,14,872349,2022-11-11,Netherlands - Eredivisie
+415,208,15,872350,2023-01-06,Netherlands - Eredivisie
+417,210,15,872351,2023-01-07,Netherlands - Eredivisie
+201,200,15,872352,2023-01-07,Netherlands - Eredivisie
+205,410,15,872353,2023-01-07,Netherlands - Eredivisie
+197,426,15,872354,2023-01-07,Netherlands - Eredivisie
+207,209,15,872355,2023-01-08,Netherlands - Eredivisie
+413,194,15,872356,2023-01-08,Netherlands - Eredivisie
+420,416,15,872357,2023-01-08,Netherlands - Eredivisie
+196,202,15,872358,2023-01-08,Netherlands - Eredivisie
+210,201,16,872359,2023-01-14,Netherlands - Eredivisie
+202,209,16,872360,2023-01-15,Netherlands - Eredivisie
+426,196,16,872361,2023-01-14,Netherlands - Eredivisie
+194,415,16,872362,2023-01-14,Netherlands - Eredivisie
+416,417,16,872363,2023-01-14,Netherlands - Eredivisie
+200,413,16,872364,2023-01-15,Netherlands - Eredivisie
+205,197,16,872365,2023-01-15,Netherlands - Eredivisie
+410,207,16,872366,2023-01-15,Netherlands - Eredivisie
+208,420,16,872367,2023-01-15,Netherlands - Eredivisie
+196,416,17,872368,2023-01-20,Netherlands - Eredivisie
+413,208,17,872369,2023-01-21,Netherlands - Eredivisie
+197,200,17,872370,2023-01-21,Netherlands - Eredivisie
+420,426,17,872371,2023-01-21,Netherlands - Eredivisie
+417,410,17,872372,2023-01-21,Netherlands - Eredivisie
+210,202,17,872373,2023-01-22,Netherlands - Eredivisie
+415,207,17,872374,2023-01-22,Netherlands - Eredivisie
+209,194,17,872375,2023-01-22,Netherlands - Eredivisie
+201,205,17,872376,2023-01-22,Netherlands - Eredivisie
+208,197,18,872377,2023-01-24,Netherlands - Eredivisie
+426,417,18,872378,2023-01-24,Netherlands - Eredivisie
+410,201,18,872379,2023-01-25,Netherlands - Eredivisie
+200,415,18,872380,2023-01-25,Netherlands - Eredivisie
+205,210,18,872381,2023-01-25,Netherlands - Eredivisie
+207,196,18,872382,2023-01-25,Netherlands - Eredivisie
+209,413,18,872383,2023-01-25,Netherlands - Eredivisie
+202,420,18,872384,2023-01-26,Netherlands - Eredivisie
+194,416,18,872385,2023-01-26,Netherlands - Eredivisie
+417,208,19,872386,2023-01-28,Netherlands - Eredivisie
+197,410,19,872387,2023-01-28,Netherlands - Eredivisie
+413,426,19,872388,2023-01-28,Netherlands - Eredivisie
+210,200,19,872389,2023-01-28,Netherlands - Eredivisie
+201,207,19,872390,2023-01-28,Netherlands - Eredivisie
+415,209,19,872391,2023-01-29,Netherlands - Eredivisie
+196,194,19,872392,2023-01-29,Netherlands - Eredivisie
+416,202,19,872393,2023-01-29,Netherlands - Eredivisie
+420,205,19,872394,2023-01-29,Netherlands - Eredivisie
+205,426,20,872395,2023-02-03,Netherlands - Eredivisie
+416,201,20,872396,2023-02-04,Netherlands - Eredivisie
+208,200,20,872397,2023-02-04,Netherlands - Eredivisie
+207,210,20,872398,2023-02-04,Netherlands - Eredivisie
+196,417,20,872399,2023-02-04,Netherlands - Eredivisie
+420,194,20,872400,2023-02-05,Netherlands - Eredivisie
+209,197,20,872401,2023-02-05,Netherlands - Eredivisie
+410,413,20,872402,2023-02-05,Netherlands - Eredivisie
+202,415,20,872403,2023-02-05,Netherlands - Eredivisie
+194,417,21,872404,2023-02-12,Netherlands - Eredivisie
+201,196,21,872405,2023-02-10,Netherlands - Eredivisie
+208,205,21,872406,2023-02-11,Netherlands - Eredivisie
+415,416,21,872407,2023-02-11,Netherlands - Eredivisie
+413,420,21,872408,2023-02-11,Netherlands - Eredivisie
+197,202,21,872409,2023-02-11,Netherlands - Eredivisie
+210,209,21,872410,2023-02-12,Netherlands - Eredivisie
+426,410,21,872411,2023-02-12,Netherlands - Eredivisie
+200,207,21,872412,2023-02-12,Netherlands - Eredivisie
+194,426,22,872413,2023-02-19,Netherlands - Eredivisie
+196,413,22,872414,2023-02-19,Netherlands - Eredivisie
+202,208,22,872415,2023-02-18,Netherlands - Eredivisie
+207,197,22,872416,2023-02-19,Netherlands - Eredivisie
+416,200,22,872417,2023-02-18,Netherlands - Eredivisie
+209,201,22,872418,2023-02-18,Netherlands - Eredivisie
+410,415,22,872419,2023-02-19,Netherlands - Eredivisie
+417,205,22,872420,2023-02-17,Netherlands - Eredivisie
+420,210,22,872421,2023-02-19,Netherlands - Eredivisie
+201,420,23,872422,2023-02-25,Netherlands - Eredivisie
+208,410,23,872423,2023-02-26,Netherlands - Eredivisie
+202,196,23,872424,2023-02-25,Netherlands - Eredivisie
+205,209,23,872425,2023-02-26,Netherlands - Eredivisie
+413,416,23,872426,2023-02-25,Netherlands - Eredivisie
+197,415,23,872427,2023-02-26,Netherlands - Eredivisie
+210,417,23,872428,2023-02-26,Netherlands - Eredivisie
+426,207,23,872429,2023-02-24,Netherlands - Eredivisie
+200,194,23,872430,2023-02-26,Netherlands - Eredivisie
+194,413,24,872431,2023-03-05,Netherlands - Eredivisie
+196,426,24,872432,2023-03-05,Netherlands - Eredivisie
+415,210,24,872433,2023-03-04,Netherlands - Eredivisie
+207,205,24,872434,2023-03-03,Netherlands - Eredivisie
+416,208,24,872435,2023-03-04,Netherlands - Eredivisie
+209,202,24,872436,2023-03-04,Netherlands - Eredivisie
+417,197,24,872437,2023-03-05,Netherlands - Eredivisie
+420,410,24,872438,2023-03-05,Netherlands - Eredivisie
+200,201,24,872439,2023-03-05,Netherlands - Eredivisie
+201,202,25,872440,2023-03-12,Netherlands - Eredivisie
+208,196,25,872441,2023-03-11,Netherlands - Eredivisie
+209,416,25,872442,2023-03-12,Netherlands - Eredivisie
+205,415,25,872443,2023-03-12,Netherlands - Eredivisie
+410,417,25,872444,2023-03-10,Netherlands - Eredivisie
+413,207,25,872445,2023-03-12,Netherlands - Eredivisie
+197,420,25,872446,2023-03-12,Netherlands - Eredivisie
+210,194,25,872447,2023-03-12,Netherlands - Eredivisie
+426,200,25,872448,2023-03-12,Netherlands - Eredivisie
+194,209,26,872449,2023-03-19,Netherlands - Eredivisie
+196,420,26,872450,2023-03-19,Netherlands - Eredivisie
+208,426,26,872451,2023-03-18,Netherlands - Eredivisie
+202,210,26,872452,2023-03-19,Netherlands - Eredivisie
+415,201,26,872453,2023-03-19,Netherlands - Eredivisie
+207,410,26,872454,2023-03-18,Netherlands - Eredivisie
+416,205,26,872455,2023-03-17,Netherlands - Eredivisie
+417,413,26,872456,2023-03-18,Netherlands - Eredivisie
+200,197,26,872457,2023-03-19,Netherlands - Eredivisie
+201,210,27,872458,2023-04-01,Netherlands - Eredivisie
+196,415,27,872459,2023-04-01,Netherlands - Eredivisie
+207,416,27,872460,2023-04-02,Netherlands - Eredivisie
+205,202,27,872461,2023-04-02,Netherlands - Eredivisie
+410,194,27,872462,2023-04-02,Netherlands - Eredivisie
+413,197,27,872463,2023-04-02,Netherlands - Eredivisie
+417,200,27,872464,2023-04-01,Netherlands - Eredivisie
+420,208,27,872465,2023-04-01,Netherlands - Eredivisie
+426,209,27,872466,2023-04-02,Netherlands - Eredivisie
+194,205,28,872467,2023-04-09,Netherlands - Eredivisie
+201,426,28,872468,2023-04-09,Netherlands - Eredivisie
+208,413,28,872469,2023-04-09,Netherlands - Eredivisie
+202,207,28,872470,2023-04-07,Netherlands - Eredivisie
+415,420,28,872471,2023-04-09,Netherlands - Eredivisie
+209,417,28,872472,2023-04-09,Netherlands - Eredivisie
+197,196,28,872473,2023-04-09,Netherlands - Eredivisie
+210,416,28,872474,2023-04-09,Netherlands - Eredivisie
+200,410,28,872475,2023-04-08,Netherlands - Eredivisie
+194,208,29,872476,2023-04-16,Netherlands - Eredivisie
+196,410,29,872477,2023-04-14,Netherlands - Eredivisie
+207,415,29,872478,2023-04-16,Netherlands - Eredivisie
+416,197,29,872479,2023-04-16,Netherlands - Eredivisie
+205,201,29,872480,2023-04-16,Netherlands - Eredivisie
+413,200,29,872481,2023-04-16,Netherlands - Eredivisie
+417,202,29,872482,2023-04-15,Netherlands - Eredivisie
+420,209,29,872483,2023-04-16,Netherlands - Eredivisie
+426,210,29,872484,2023-04-15,Netherlands - Eredivisie
+201,417,30,872485,2023-04-23,Netherlands - Eredivisie
+202,413,30,872486,2023-04-22,Netherlands - Eredivisie
+415,426,30,872487,2023-04-23,Netherlands - Eredivisie
+416,420,30,872488,2023-04-21,Netherlands - Eredivisie
+209,207,30,872489,2023-04-23,Netherlands - Eredivisie
+410,205,30,872490,2023-04-23,Netherlands - Eredivisie
+197,194,30,872491,2023-04-23,Netherlands - Eredivisie
+210,208,30,872492,2023-04-22,Netherlands - Eredivisie
+200,196,30,872493,2023-04-23,Netherlands - Eredivisie
+194,201,31,872494,2023-05-07,Netherlands - Eredivisie
+196,209,31,872495,2023-05-07,Netherlands - Eredivisie
+208,415,31,872496,2023-05-07,Netherlands - Eredivisie
+205,200,31,872497,2023-05-07,Netherlands - Eredivisie
+410,202,31,872498,2023-05-07,Netherlands - Eredivisie
+413,210,31,872499,2023-05-07,Netherlands - Eredivisie
+417,416,31,872500,2023-05-05,Netherlands - Eredivisie
+420,207,31,872501,2023-05-07,Netherlands - Eredivisie
+426,197,31,872502,2023-05-06,Netherlands - Eredivisie
+201,208,32,872503,2023-05-14,Netherlands - Eredivisie
+202,194,32,872504,2023-05-14,Netherlands - Eredivisie
+415,413,32,872505,2023-05-12,Netherlands - Eredivisie
+207,417,32,872506,2023-05-13,Netherlands - Eredivisie
+416,426,32,872507,2023-05-13,Netherlands - Eredivisie
+209,410,32,872508,2023-05-14,Netherlands - Eredivisie
+197,205,32,872509,2023-05-14,Netherlands - Eredivisie
+210,196,32,872510,2023-05-13,Netherlands - Eredivisie
+200,420,32,872511,2023-05-14,Netherlands - Eredivisie
+194,207,33,872512,2023-05-21,Netherlands - Eredivisie
+208,209,33,872513,2023-05-21,Netherlands - Eredivisie
+196,205,33,872514,2023-05-21,Netherlands - Eredivisie
+410,416,33,872515,2023-05-21,Netherlands - Eredivisie
+413,201,33,872516,2023-05-21,Netherlands - Eredivisie
+197,210,33,872517,2023-05-21,Netherlands - Eredivisie
+417,415,33,872518,2023-05-21,Netherlands - Eredivisie
+426,420,33,872519,2023-05-21,Netherlands - Eredivisie
+200,202,33,872520,2023-05-21,Netherlands - Eredivisie
+201,197,34,872521,2023-05-28,Netherlands - Eredivisie
+420,417,34,872522,2023-05-28,Netherlands - Eredivisie
+209,200,34,872523,2023-05-28,Netherlands - Eredivisie
+205,413,34,872524,2023-05-28,Netherlands - Eredivisie
+202,426,34,872525,2023-05-28,Netherlands - Eredivisie
+210,410,34,872526,2023-05-28,Netherlands - Eredivisie
+415,194,34,872527,2023-05-28,Netherlands - Eredivisie
+207,208,34,872528,2023-05-28,Netherlands - Eredivisie
+416,196,34,872529,2023-05-28,Netherlands - Eredivisie
+530,538,5,877982,2022-09-10,Spain - La Liga
+543,533,5,877983,2022-09-11,Spain - La Liga
+546,548,5,877984,2022-09-11,Spain - La Liga
+540,536,5,877985,2022-09-10,Spain - La Liga
+728,532,5,877986,2022-09-10,Spain - La Liga
+723,727,5,877987,2022-09-12,Spain - La Liga
+547,720,5,877988,2022-09-09,Spain - La Liga
+797,531,5,877989,2022-09-11,Spain - La Liga
+724,529,5,877990,2022-09-10,Spain - La Liga
+541,798,5,877991,2022-09-11,Spain - La Liga
+531,728,6,877992,2022-09-17,Spain - La Liga
+530,541,6,877993,2022-09-18,Spain - La Liga
+529,797,6,877994,2022-09-17,Spain - La Liga
+543,547,6,877995,2022-09-18,Spain - La Liga
+532,538,6,877996,2022-09-17,Spain - La Liga
+727,546,6,877997,2022-09-18,Spain - La Liga
+720,724,6,877998,2022-09-16,Spain - La Liga
+548,540,6,877999,2022-09-18,Spain - La Liga
+533,536,6,878000,2022-09-18,Spain - La Liga
+798,723,6,878001,2022-09-17,Spain - La Liga
+546,720,7,878002,2022-10-01,Spain - La Liga
+724,533,7,878003,2022-10-01,Spain - La Liga
+540,532,7,878004,2022-10-02,Spain - La Liga
+547,548,7,878005,2022-10-02,Spain - La Liga
+536,530,7,878006,2022-10-01,Spain - La Liga
+798,529,7,878007,2022-10-01,Spain - La Liga
+538,543,7,878008,2022-10-02,Spain - La Liga
+728,797,7,878009,2022-10-03,Spain - La Liga
+541,727,7,878010,2022-10-02,Spain - La Liga
+531,723,7,878011,2022-09-30,Spain - La Liga
+530,547,8,878012,2022-10-08,Spain - La Liga
+529,538,8,878013,2022-10-09,Spain - La Liga
+797,798,8,878014,2022-10-10,Spain - La Liga
+546,541,8,878015,2022-10-08,Spain - La Liga
+724,540,8,878016,2022-10-09,Spain - La Liga
+727,532,8,878017,2022-10-07,Spain - La Liga
+548,533,8,878018,2022-10-09,Spain - La Liga
+723,728,8,878019,2022-10-08,Spain - La Liga
+536,531,8,878020,2022-10-08,Spain - La Liga
+720,543,8,878021,2022-10-09,Spain - La Liga
+531,530,9,878022,2022-10-15,Spain - La Liga
+538,548,9,878023,2022-10-16,Spain - La Liga
+798,536,9,878024,2022-10-15,Spain - La Liga
+540,720,9,878025,2022-10-16,Spain - La Liga
+541,529,9,878026,2022-10-16,Spain - La Liga
+532,797,9,878027,2022-10-15,Spain - La Liga
+728,546,9,878028,2022-10-14,Spain - La Liga
+547,724,9,878029,2022-10-15,Spain - La Liga
+533,727,9,878030,2022-10-17,Spain - La Liga
+543,723,9,878031,2022-10-16,Spain - La Liga
+530,728,10,878032,2022-10-18,Spain - La Liga
+529,533,10,878033,2022-10-20,Spain - La Liga
+797,541,10,878034,2022-10-19,Spain - La Liga
+536,532,10,878035,2022-10-18,Spain - La Liga
+723,547,10,878036,2022-10-20,Spain - La Liga
+546,531,10,878037,2022-10-18,Spain - La Liga
+724,543,10,878038,2022-10-19,Spain - La Liga
+720,538,10,878039,2022-10-19,Spain - La Liga
+548,798,10,878040,2022-10-19,Spain - La Liga
+727,540,10,878041,2022-10-20,Spain - La Liga
+538,546,11,878042,2022-10-24,Spain - La Liga
+541,536,11,878043,2022-10-22,Spain - La Liga
+547,727,11,878044,2022-10-23,Spain - La Liga
+529,531,11,878045,2022-10-23,Spain - La Liga
+543,530,11,878046,2022-10-23,Spain - La Liga
+540,797,11,878047,2022-10-23,Spain - La Liga
+532,798,11,878048,2022-10-22,Spain - La Liga
+728,724,11,878049,2022-10-22,Spain - La Liga
+720,548,11,878050,2022-10-22,Spain - La Liga
+533,723,11,878051,2022-10-23,Spain - La Liga
+531,533,12,878052,2022-10-30,Spain - La Liga
+797,546,12,878053,2022-10-31,Spain - La Liga
+727,720,12,878054,2022-10-30,Spain - La Liga
+723,538,12,878055,2022-10-29,Spain - La Liga
+724,530,12,878056,2022-10-29,Spain - La Liga
+532,529,12,878057,2022-10-29,Spain - La Liga
+548,543,12,878058,2022-10-30,Spain - La Liga
+798,540,12,878059,2022-10-28,Spain - La Liga
+536,728,12,878060,2022-10-29,Spain - La Liga
+541,547,12,878061,2022-10-30,Spain - La Liga
+530,540,13,878062,2022-11-06,Spain - La Liga
+543,536,13,878063,2022-11-06,Spain - La Liga
+538,727,13,878064,2022-11-05,Spain - La Liga
+548,532,13,878065,2022-11-06,Spain - La Liga
+728,541,13,878066,2022-11-07,Spain - La Liga
+547,531,13,878067,2022-11-04,Spain - La Liga
+720,797,13,878068,2022-11-05,Spain - La Liga
+533,798,13,878069,2022-11-06,Spain - La Liga
+546,724,13,878070,2022-11-05,Spain - La Liga
+529,723,13,878071,2022-11-05,Spain - La Liga
+531,720,14,878072,2022-11-08,Spain - La Liga
+797,547,14,878073,2022-11-08,Spain - La Liga
+540,533,14,878074,2022-11-09,Spain - La Liga
+723,546,14,878075,2022-11-09,Spain - La Liga
+798,530,14,878076,2022-11-09,Spain - La Liga
+727,529,14,878077,2022-11-08,Spain - La Liga
+532,543,14,878078,2022-11-10,Spain - La Liga
+728,538,14,878079,2022-11-10,Spain - La Liga
+541,724,14,878080,2022-11-10,Spain - La Liga
+536,548,14,878081,2022-11-09,Spain - La Liga
+530,797,15,878082,2022-12-29,Spain - La Liga
+529,540,15,878083,2022-12-31,Spain - La Liga
+538,536,15,878084,2022-12-30,Spain - La Liga
+546,798,15,878085,2022-12-30,Spain - La Liga
+547,728,15,878086,2022-12-29,Spain - La Liga
+543,531,15,878087,2022-12-29,Spain - La Liga
+548,727,15,878088,2022-12-31,Spain - La Liga
+720,541,15,878089,2022-12-30,Spain - La Liga
+533,532,15,878090,2022-12-31,Spain - La Liga
+724,723,15,878091,2022-12-30,Spain - La Liga
+531,727,16,878092,2023-01-09,Spain - La Liga
+530,529,16,878093,2023-01-08,Spain - La Liga
+798,720,16,878094,2023-01-07,Spain - La Liga
+540,547,16,878095,2023-01-07,Spain - La Liga
+723,548,16,878096,2023-01-08,Spain - La Liga
+728,543,16,878097,2023-01-08,Spain - La Liga
+797,538,16,878098,2023-01-06,Spain - La Liga
+536,546,16,878099,2023-01-08,Spain - La Liga
+532,724,16,878100,2023-01-06,Spain - La Liga
+533,541,16,878101,2023-01-07,Spain - La Liga
+538,533,17,878102,2023-01-13,Spain - La Liga
+724,797,17,878103,2023-01-16,Spain - La Liga
+541,532,17,878104,2023-02-02,Spain - La Liga
+723,530,17,878105,2023-01-15,Spain - La Liga
+547,536,17,878106,2023-01-14,Spain - La Liga
+548,531,17,878107,2023-01-14,Spain - La Liga
+543,529,17,878108,2023-02-01,Spain - La Liga
+727,798,17,878109,2023-01-14,Spain - La Liga
+546,540,17,878110,2023-01-15,Spain - La Liga
+720,728,17,878111,2023-01-14,Spain - La Liga
+531,541,18,878112,2023-01-22,Spain - La Liga
+530,720,18,878113,2023-01-21,Spain - La Liga
+529,546,18,878114,2023-01-22,Spain - La Liga
+797,727,18,878115,2023-01-22,Spain - La Liga
+728,548,18,878116,2023-01-21,Spain - La Liga
+540,543,18,878117,2023-01-22,Spain - La Liga
+798,538,18,878118,2023-01-20,Spain - La Liga
+536,724,18,878119,2023-01-21,Spain - La Liga
+532,723,18,878120,2023-01-23,Spain - La Liga
+533,547,18,878121,2023-01-22,Spain - La Liga
+724,798,19,878122,2023-01-29,Spain - La Liga
+541,548,19,878123,2023-01-29,Spain - La Liga
+723,540,19,878124,2023-01-29,Spain - La Liga
+538,531,19,878125,2023-01-29,Spain - La Liga
+727,530,19,878126,2023-01-29,Spain - La Liga
+547,529,19,878127,2023-01-29,Spain - La Liga
+546,543,19,878128,2023-01-29,Spain - La Liga
+536,797,19,878129,2023-01-29,Spain - La Liga
+720,532,19,878130,2023-01-29,Spain - La Liga
+533,728,19,878131,2023-01-29,Spain - La Liga
+531,724,20,878132,2023-02-05,Spain - La Liga
+530,546,20,878133,2023-02-05,Spain - La Liga
+529,536,20,878134,2023-02-05,Spain - La Liga
+543,538,20,878135,2023-02-05,Spain - La Liga
+797,533,20,878136,2023-02-05,Spain - La Liga
+798,541,20,878137,2023-02-05,Spain - La Liga
+540,727,20,878138,2023-02-05,Spain - La Liga
+548,720,20,878139,2023-02-05,Spain - La Liga
+547,532,20,878140,2023-02-05,Spain - La Liga
+728,723,20,878141,2023-02-05,Spain - La Liga
+546,728,21,878142,2023-02-12,Spain - La Liga
+724,547,21,878143,2023-02-12,Spain - La Liga
+540,548,21,878144,2023-02-12,Spain - La Liga
+723,543,21,878145,2023-02-12,Spain - La Liga
+532,531,21,878146,2023-02-12,Spain - La Liga
+538,530,21,878147,2023-02-12,Spain - La Liga
+533,529,21,878148,2023-02-12,Spain - La Liga
+541,797,21,878149,2023-02-12,Spain - La Liga
+536,798,21,878150,2023-02-12,Spain - La Liga
+720,727,21,878151,2023-02-12,Spain - La Liga
+529,724,22,878152,2023-02-19,Spain - La Liga
+543,720,22,878153,2023-02-19,Spain - La Liga
+797,540,22,878154,2023-02-19,Spain - La Liga
+798,533,22,878155,2023-02-19,Spain - La Liga
+546,532,22,878156,2023-02-19,Spain - La Liga
+727,541,22,878157,2023-02-19,Spain - La Liga
+728,536,22,878158,2023-02-19,Spain - La Liga
+530,531,22,878159,2023-02-19,Spain - La Liga
+548,538,22,878160,2023-02-19,Spain - La Liga
+547,723,22,878161,2023-02-19,Spain - La Liga
+531,547,23,878162,2023-02-26,Spain - La Liga
+538,720,23,878163,2023-02-26,Spain - La Liga
+724,728,23,878164,2023-02-26,Spain - La Liga
+540,798,23,878165,2023-02-26,Spain - La Liga
+723,529,23,878166,2023-02-26,Spain - La Liga
+541,530,23,878167,2023-02-26,Spain - La Liga
+797,543,23,878168,2023-02-26,Spain - La Liga
+533,546,23,878169,2023-02-26,Spain - La Liga
+536,727,23,878170,2023-02-26,Spain - La Liga
+532,548,23,878171,2023-02-26,Spain - La Liga
+530,536,24,878172,2023-03-05,Spain - La Liga
+529,532,24,878173,2023-03-05,Spain - La Liga
+543,541,24,878174,2023-03-05,Spain - La Liga
+546,547,24,878175,2023-03-05,Spain - La Liga
+723,533,24,878176,2023-03-05,Spain - La Liga
+728,531,24,878177,2023-03-05,Spain - La Liga
+727,538,24,878178,2023-03-05,Spain - La Liga
+798,797,24,878179,2023-03-05,Spain - La Liga
+548,724,24,878180,2023-03-05,Spain - La Liga
+720,540,24,878181,2023-03-05,Spain - La Liga
+531,529,25,878182,2023-03-12,Spain - La Liga
+538,728,25,878183,2023-03-12,Spain - La Liga
+797,720,25,878184,2023-03-12,Spain - La Liga
+798,548,25,878185,2023-03-12,Spain - La Liga
+724,546,25,878186,2023-03-12,Spain - La Liga
+547,530,25,878187,2023-03-12,Spain - La Liga
+533,543,25,878188,2023-03-12,Spain - La Liga
+541,540,25,878189,2023-03-12,Spain - La Liga
+532,727,25,878190,2023-03-12,Spain - La Liga
+536,723,25,878191,2023-03-12,Spain - La Liga
+530,532,26,878192,2023-03-19,Spain - La Liga
+529,541,26,878193,2023-03-19,Spain - La Liga
+543,798,26,878194,2023-03-19,Spain - La Liga
+546,536,26,878195,2023-03-19,Spain - La Liga
+727,533,26,878196,2023-03-19,Spain - La Liga
+723,724,26,878197,2023-03-19,Spain - La Liga
+720,531,26,878198,2023-03-19,Spain - La Liga
+540,538,26,878199,2023-03-19,Spain - La Liga
+548,797,26,878200,2023-03-19,Spain - La Liga
+728,547,26,878201,2023-03-19,Spain - La Liga
+531,546,27,878202,2023-04-02,Spain - La Liga
+530,543,27,878203,2023-04-02,Spain - La Liga
+798,727,27,878204,2023-04-02,Spain - La Liga
+724,536,27,878205,2023-04-02,Spain - La Liga
+541,720,27,878206,2023-04-02,Spain - La Liga
+797,529,27,878207,2023-04-02,Spain - La Liga
+547,540,27,878208,2023-04-02,Spain - La Liga
+533,548,27,878209,2023-04-02,Spain - La Liga
+532,728,27,878210,2023-04-02,Spain - La Liga
+538,723,27,878211,2023-04-02,Spain - La Liga
+529,547,28,878212,2023-04-09,Spain - La Liga
+543,724,28,878213,2023-04-09,Spain - La Liga
+541,533,28,878214,2023-04-09,Spain - La Liga
+723,532,28,878215,2023-04-09,Spain - La Liga
+540,531,28,878216,2023-04-09,Spain - La Liga
+728,530,28,878217,2023-04-09,Spain - La Liga
+536,538,28,878218,2023-04-09,Spain - La Liga
+727,797,28,878219,2023-04-09,Spain - La Liga
+720,798,28,878220,2023-04-09,Spain - La Liga
+548,546,28,878221,2023-04-09,Spain - La Liga
+531,548,29,878222,2023-04-16,Spain - La Liga
+543,540,29,878223,2023-04-16,Spain - La Liga
+538,798,29,878224,2023-04-16,Spain - La Liga
+724,541,29,878225,2023-04-16,Spain - La Liga
+533,720,29,878226,2023-04-16,Spain - La Liga
+546,529,29,878227,2023-04-16,Spain - La Liga
+547,797,29,878228,2023-04-16,Spain - La Liga
+728,727,29,878229,2023-04-16,Spain - La Liga
+532,536,29,878230,2023-04-16,Spain - La Liga
+530,723,29,878231,2023-04-16,Spain - La Liga
+797,532,30,878232,2023-04-23,Spain - La Liga
+536,533,30,878233,2023-04-23,Spain - La Liga
+723,531,30,878234,2023-04-23,Spain - La Liga
+529,530,30,878235,2023-04-23,Spain - La Liga
+727,543,30,878236,2023-04-23,Spain - La Liga
+541,538,30,878237,2023-04-23,Spain - La Liga
+798,546,30,878238,2023-04-23,Spain - La Liga
+540,724,30,878239,2023-04-23,Spain - La Liga
+548,728,30,878240,2023-04-23,Spain - La Liga
+720,547,30,878241,2023-04-23,Spain - La Liga
+531,536,31,878242,2023-04-26,Spain - La Liga
+530,798,31,878243,2023-04-26,Spain - La Liga
+543,548,31,878244,2023-04-26,Spain - La Liga
+538,797,31,878245,2023-04-26,Spain - La Liga
+724,727,31,878246,2023-04-26,Spain - La Liga
+532,720,31,878247,2023-04-26,Spain - La Liga
+547,541,31,878248,2023-04-26,Spain - La Liga
+728,529,31,878249,2023-04-26,Spain - La Liga
+533,540,31,878250,2023-04-26,Spain - La Liga
+546,723,31,878251,2023-04-26,Spain - La Liga
+529,543,32,878252,2023-04-30,Spain - La Liga
+797,728,32,878253,2023-04-30,Spain - La Liga
+724,532,32,878254,2023-04-30,Spain - La Liga
+540,546,32,878255,2023-04-30,Spain - La Liga
+727,548,32,878256,2023-04-30,Spain - La Liga
+798,531,32,878257,2023-04-30,Spain - La Liga
+720,530,32,878258,2023-04-30,Spain - La Liga
+533,538,32,878259,2023-04-30,Spain - La Liga
+541,723,32,878260,2023-04-30,Spain - La Liga
+536,547,32,878261,2023-04-30,Spain - La Liga
+531,543,33,878262,2023-05-03,Spain - La Liga
+530,724,33,878263,2023-05-03,Spain - La Liga
+529,727,33,878264,2023-05-03,Spain - La Liga
+532,533,33,878265,2023-05-03,Spain - La Liga
+728,720,33,878266,2023-05-03,Spain - La Liga
+723,797,33,878267,2023-05-03,Spain - La Liga
+547,798,33,878268,2023-05-03,Spain - La Liga
+546,538,33,878269,2023-05-03,Spain - La Liga
+536,540,33,878270,2023-05-03,Spain - La Liga
+548,541,33,878271,2023-05-03,Spain - La Liga
+543,728,34,878272,2023-05-14,Spain - La Liga
+538,532,34,878273,2023-05-14,Spain - La Liga
+533,531,34,878274,2023-05-14,Spain - La Liga
+797,530,34,878275,2023-05-14,Spain - La Liga
+540,529,34,878276,2023-05-14,Spain - La Liga
+541,546,34,878277,2023-05-14,Spain - La Liga
+798,724,34,878278,2023-05-14,Spain - La Liga
+720,536,34,878279,2023-05-14,Spain - La Liga
+727,723,34,878280,2023-05-14,Spain - La Liga
+548,547,34,878281,2023-05-14,Spain - La Liga
+531,538,35,878282,2023-05-21,Spain - La Liga
+530,727,35,878283,2023-05-21,Spain - La Liga
+529,548,35,878284,2023-05-21,Spain - La Liga
+724,720,35,878285,2023-05-21,Spain - La Liga
+723,798,35,878286,2023-05-21,Spain - La Liga
+547,533,35,878287,2023-05-21,Spain - La Liga
+536,543,35,878288,2023-05-21,Spain - La Liga
+546,797,35,878289,2023-05-21,Spain - La Liga
+728,540,35,878290,2023-05-21,Spain - La Liga
+532,541,35,878291,2023-05-21,Spain - La Liga
+543,546,36,878292,2023-05-24,Spain - La Liga
+538,547,36,878293,2023-05-24,Spain - La Liga
+797,536,36,878294,2023-05-24,Spain - La Liga
+798,532,36,878295,2023-05-24,Spain - La Liga
+727,531,36,878296,2023-05-24,Spain - La Liga
+540,530,36,878297,2023-05-24,Spain - La Liga
+720,529,36,878298,2023-05-24,Spain - La Liga
+533,724,36,878299,2023-05-24,Spain - La Liga
+541,728,36,878300,2023-05-24,Spain - La Liga
+548,723,36,878301,2023-05-24,Spain - La Liga
+531,797,37,878302,2023-05-28,Spain - La Liga
+530,548,37,878303,2023-05-28,Spain - La Liga
+529,798,37,878304,2023-05-28,Spain - La Liga
+546,727,37,878305,2023-05-28,Spain - La Liga
+724,538,37,878306,2023-05-28,Spain - La Liga
+728,533,37,878307,2023-05-28,Spain - La Liga
+723,720,37,878308,2023-05-28,Spain - La Liga
+547,543,37,878309,2023-05-28,Spain - La Liga
+532,540,37,878310,2023-05-28,Spain - La Liga
+536,541,37,878311,2023-05-28,Spain - La Liga
+543,532,38,878312,2023-06-04,Spain - La Liga
+798,728,38,878313,2023-06-04,Spain - La Liga
+548,536,38,878314,2023-06-04,Spain - La Liga
+541,531,38,878315,2023-06-04,Spain - La Liga
+533,530,38,878316,2023-06-04,Spain - La Liga
+538,529,38,878317,2023-06-04,Spain - La Liga
+720,546,38,878318,2023-06-04,Spain - La Liga
+797,724,38,878319,2023-06-04,Spain - La Liga
+540,723,38,878320,2023-06-04,Spain - La Liga
+727,547,38,878321,2023-06-04,Spain - La Liga
