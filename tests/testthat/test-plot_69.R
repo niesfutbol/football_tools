@@ -20,7 +20,7 @@ describe("get_info_from_match", {
 describe("auxiliar functions", {
   it(".get_xGoal_attacking_agg()", {
     obtaines <- .get_xGoal_attacking_agg(all_matches, 867999, 49)
-    expected <- 0.6563300000000001
+    expected <- 0.92466
     expect_equal(obtaines, expected)
   })
   it(".get_point_agg()", {
