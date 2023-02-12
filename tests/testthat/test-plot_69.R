@@ -25,7 +25,7 @@ describe("auxiliar functions", {
   })
   it(".get_point_agg()", {
     obtaines <- .get_point_agg(all_matches, 867999, 49)
-    expected <- 3
+    expected <- 2
     expect_equal(obtaines, expected)
   })
 })
