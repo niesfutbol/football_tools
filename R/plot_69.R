@@ -23,14 +23,14 @@ get_info_from_match <- function(all_matches, match_id, cleaned_matches) {
 
 .get_xGoal_attacking_agg <- function(all_matches, Match_id, team) {
   last_match_id <- which(all_matches$match_id == Match_id & all_matches$team_id == team) - 1
-  home_xgoal_agg <- all_matches[last_match_id,] %>%
+  home_xgoal_agg <- all_matches[last_match_id, ] %>%
     .$xGoal_attacking_agg
   return(home_xgoal_agg)
 }
 
 .get_point_agg <- function(all_matches, Match_id, team) {
   last_match_id <- which(all_matches$match_id == Match_id & all_matches$team_id == team) - 1
-  point_agg <- all_matches[last_match_id,] %>%
+  point_agg <- all_matches[last_match_id, ] %>%
     .$point_agg
   return(point_agg)
 }
