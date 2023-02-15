@@ -19,6 +19,7 @@ describe("select_match_to_predict", {
     expect_equal(obatined_matches, round_22)
     options <- list("round" = "0", "initial_date" = "2023-01-31", "final_date" = "2023-02-28")
     obatined_matches <- select_match_to_predict(season, options)
+    february <- read_csv("/workdir/tests/data/season_78_2022_february.csv", show_col_types = FALSE)
     expect_equal(obatined_matches, february)
   })
 })
