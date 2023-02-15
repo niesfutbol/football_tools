@@ -4,3 +4,9 @@ select_match_to_predict_by_round <- function(season, round) {
     filter(round == n_round)
   return(filtered_matches)
 }
+
+select_match_to_predict_by_date <- function(season, initial_date, final_date) {
+  february <- season %>%
+    filter((date > lubridate::ymd(initial_date)) & (date < lubridate::ymd(final_date)))
+  return(february)
+}
