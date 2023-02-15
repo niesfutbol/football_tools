@@ -15,4 +15,5 @@ select_match_to_predict <- function(season, options) {
   if (options[["round"]] != "0") {
     return(select_match_to_predict_by_round(season, options[["round"]]))
   }
+  return(select_match_to_predict_by_date(season, options[["initial_date"]], options[["final_date"]]))
 }
