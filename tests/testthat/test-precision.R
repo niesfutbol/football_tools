@@ -2,8 +2,8 @@ prediction <- read_csv("/workdir/tests/data/predictions_from_presition.csv", sho
 
 describe("summary", {
   it("presition", {
-  obtained <- summary_from_prediction(prediction)
-  expected <- tibble::tibble()
-  expect_equal(obtained, expected)
+    obtained <- summary_from_prediction(prediction)
+    expected <- tibble::tibble()
+    expect_equal(obtained, expected)
   })
 })
